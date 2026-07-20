@@ -50,7 +50,9 @@ def claude_verdict(candidate):
     if result.returncode != 0:
         return "infra"
     try:
-        return json.loads(result.stdout.strip())
+        parsed = json.loads(result.stdout.strip())
+        if isinstance(parsed, dict):
+            return parsed
     except json.JSONDecodeError:
         pass
     # The reply should be bare JSON; be tolerant of stray prose around it.

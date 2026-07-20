@@ -33,6 +33,8 @@ mkdir -p logs work
     exit 0
   fi
 
+  git pull --rebase origin main || { echo "FAILED: pull"; exit 1; }
+
   scripts/generate.sh "$DATE" "$PICK" || { echo "FAILED: generate"; exit 1; }
   python3 scripts/verify.py           || { echo "FAILED: verify"; exit 1; }
 
@@ -46,13 +48,12 @@ mkdir -p logs work
     exit 1
   fi
 
-  git pull --rebase origin main || { echo "FAILED: pull"; exit 1; }
-
   git add "content/$BATCH" manifest.json
   git commit -m "content: $BATCH
 
 Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>" || {
-    git checkout -- manifest.json 2>/dev/null || true
+    git reset -q -- "content/$BATCH" manifest.json
+    git checkout -q HEAD -- manifest.json 2>/dev/null || true
     rm -f "content/$BATCH"
     echo "FAILED: commit (batch reverted)"
     exit 1
