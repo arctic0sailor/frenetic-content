@@ -1,0 +1,54 @@
+[
+  {
+    "id": "a37ae104-8df2-4ac4-9d01-2b3c90074a06",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Which of these is the most reflective body in the Solar System, bouncing back the largest fraction of the sunlight that reaches it?",
+    "choices": [
+      "Venus",
+      "The Moon",
+      "Europa",
+      "Enceladus"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Enceladus",
+    "articleURL": "https://en.wikipedia.org/wiki/Enceladus",
+    "anchorText": "makes Enceladus the most reflective body in the Solar System",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/PIA17202_-_Approaching_Enceladus.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "1809362a-6813-45a4-9d2f-6cc47a2e4093",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "The tallest known cliff in the Solar System \u2014 a sheer drop of roughly 20 km \u2014 is on a moon of which planet?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "Uranus",
+      "Saturn"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Miranda (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Miranda_(moon)",
+    "anchorText": "may be the highest cliff in the Solar System",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Miranda_mosaic_in_color_-_Voyager_2.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f8667b82-6fa9-4274-94d1-9db6c1a21582",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "The naked mole-rat is a mammal, yet it is essentially cold-blooded \u2014 its body temperature simply drifts with the temperature of its surroundings.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Naked mole-rat",
+    "articleURL": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+    "anchorText": "unlike other mammals, body temperature tracks ambient temperatures",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Webs180130-rat.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
