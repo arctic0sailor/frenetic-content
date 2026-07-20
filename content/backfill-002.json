@@ -1,0 +1,68 @@
+[
+  {
+    "id": "7c68509f-3c29-41d6-899e-ca8051c9608e",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "On Mercury, a single day \u2014 from one sunrise to the next \u2014 lasts longer than the planet's entire year.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Mercury (planet)",
+    "articleURL": "https://en.wikipedia.org/wiki/Mercury_(planet)",
+    "anchorText": "on Mercury lasts for around 176 Earth days, or twice Mercury's sidereal year",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f2f85836-dc67-4833-991f-240244624667",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "If you stood at the summit of Olympus Mons, the tallest volcano in the Solar System, the slope would be so gentle you might not even realize you were on a mountain.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Olympus Mons",
+    "articleURL": "https://en.wikipedia.org/wiki/Olympus_Mons",
+    "anchorText": "an observer near the summit would be unaware of standing on a very high mountain",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Olympus_Mons_-_ESA_Mars_Express_-_Flickr_-_Andrea_Luck.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "e3a8b625-88ed-4af2-9fb7-d1c5df383679",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Which of these animals is the longest-living vertebrate on Earth?",
+    "choices": [
+      "Gal\u00e1pagos giant tortoise",
+      "Bowhead whale",
+      "Koi carp",
+      "Greenland shark"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Greenland shark",
+    "articleURL": "https://en.wikipedia.org/wiki/Greenland_shark",
+    "anchorText": "Greenland sharks have the longest lifespan of any known vertebrate",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/77/Somniosus_microcephalus_okeanos.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "df9b120b-a729-45c3-a76d-88e0af47868c",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "The Venus flytrap effectively 'counts': it won't snap shut until its trigger hairs are touched twice, and only starts digesting after about five touches.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Venus flytrap",
+    "articleURL": "https://en.wikipedia.org/wiki/Venus_flytrap",
+    "anchorText": "the flytrap counts additional stimulations of the trigger hairs, to five total",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/37/Venus_Flytrap_showing_trigger_hairs.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
