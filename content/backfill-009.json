@@ -1,0 +1,52 @@
+[
+  {
+    "id": "26b8a962-5818-4f13-9507-f9fe7c4bd53d",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "From the surface of Mars, the moon Phobos rises in the west and sets in the east \u2014 opposite to the way the Sun crosses the Martian sky.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Phobos (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Phobos_(moon)",
+    "anchorText": "from the surface of Mars it appears to rise in the west",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phobos_colour_2008.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "e993da51-240b-472d-b0cc-554dd1989cbe",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "If the universe were infinite, eternal, unchanging, and filled with an infinite number of stars, the night sky would be blindingly bright rather than dark.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Olbers' paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Olbers'_paradox",
+    "anchorText": "the night sky should be completely illuminated and very bright",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Olbers%27_Paradox_-_All_Points.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "08722087-40b5-4ff8-ba24-17f52a557c99",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Cool helium down to absolute zero at ordinary atmospheric pressure. What happens to it?",
+    "choices": [
+      "It freezes solid",
+      "It stays a liquid",
+      "It becomes a glassy solid",
+      "It sublimates into a gas"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Helium",
+    "articleURL": "https://en.wikipedia.org/wiki/Helium",
+    "anchorText": "helium remains liquid down to a temperature of absolute zero",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/82/Helium_discharge_tube.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
