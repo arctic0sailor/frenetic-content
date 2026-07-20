@@ -1,0 +1,152 @@
+[
+  {
+    "id": "5f325772-a173-4b33-9108-c467bf591c53",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "The world's oldest surviving book printed with movable metal type was produced in which country?",
+    "choices": [
+      "Germany",
+      "China",
+      "Korea",
+      "Italy"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Jikji",
+    "articleURL": "https://en.wikipedia.org/wiki/Jikji",
+    "anchorText": "it is the world's oldest extant book printed with movable metal type",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jikji_pages.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "590a8ad2-fe95-49fe-888c-4388ee32729f",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: A census taken in Paraguay right after the War of the Triple Alliance (1864\u20131870) counted more than three times as many adult women as adult men.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Paraguayan War",
+    "articleURL": "https://en.wikipedia.org/wiki/Paraguayan_War",
+    "anchorText": "106,254 were women, 28,746 were men",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/42/Escenas_de_la_Guerra_de_la_Triple_Alianza.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a1770c6d-70f8-42b3-bdbc-8427668e25e1",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: A comet's tail always streams out behind the nucleus, trailing its direction of travel like the exhaust of a rocket.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Comet",
+    "articleURL": "https://en.wikipedia.org/wiki/Comet",
+    "anchorText": "The ion tail points directly away from the Sun",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Comet_Hale-Bopp_1995O1.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c3d2cf1c-f8ba-40a8-9e41-1ad6451ba678",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "On average, how far apart are neighboring asteroids in the Solar System's asteroid belt?",
+    "choices": [
+      "About 1,000 km",
+      "About 100,000 km",
+      "About 1 million km",
+      "About 10 million km"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Asteroid belt",
+    "articleURL": "https://en.wikipedia.org/wiki/Asteroid_belt",
+    "anchorText": "distance between the asteroids is about 965,600 km",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Asteroid_belt_positions-en.png/3840px-Asteroid_belt_positions-en.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "603c260c-934e-4999-a7d7-500110190031",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Although the Martian sky is a dusty reddish color during the day, the sky around the setting Sun turns blue.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Astronomy on Mars",
+    "articleURL": "https://en.wikipedia.org/wiki/Astronomy_on_Mars",
+    "anchorText": "in the vicinity of the setting or rising sun it is blue",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c0/NASA_-_Earth%2C_Moon%2C_and_Jupiter%2C_as_seen_from_Mars_%28pd%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4da7b3f8-28d5-40b7-9c50-ee3da5bc867f",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "A newborn aphid can already be pregnant, carrying developing embryos inside it at the moment of its birth.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Aphid",
+    "articleURL": "https://en.wikipedia.org/wiki/Aphid",
+    "anchorText": "they are born pregnant",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/51/Aphids_September_2008-1.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f7af28f4-0eb9-4a31-9fae-bfc5f68f9b2b",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: For humans, being lactose intolerant as an adult is the original, ancestral condition \u2014 it is the ability to keep digesting milk into adulthood that is the more recently evolved trait.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Lactose intolerance",
+    "articleURL": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+    "anchorText": "Lactose intolerance is the ancestral state of all humans before the recent evolution of lactase persistence",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Lactose_Haworth.svg/330px-Lactose_Haworth.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6dd2cd3b-b22b-411e-9f64-b43446624dea",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "Which has the larger genome, with more DNA packed into each of its cells?",
+    "choices": [
+      "A human",
+      "An onion"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "C-value",
+    "articleURL": "https://en.wikipedia.org/wiki/C-value",
+    "anchorText": "both garlic and onions have a genome that is larger than the human genome",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c20d12be-018d-41f8-bcf7-d919a5e72ef2",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Compared with the number of your own human cells, how many bacterial cells live in and on your body?",
+    "choices": [
+      "Far fewer than your human cells",
+      "Roughly the same number",
+      "About ten times as many",
+      "About a thousand times as many"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Human microbiome",
+    "articleURL": "https://en.wikipedia.org/wiki/Human_microbiome",
+    "anchorText": "approximately the same order of magnitude of non-human cells as human cells",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Skin_Microbiome20169-300.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
