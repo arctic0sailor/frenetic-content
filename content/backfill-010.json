@@ -1,0 +1,20 @@
+[
+  {
+    "id": "0d9fe0ad-774e-41d8-8309-bd597ec13ec6",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "In Boston's 1919 Great Molasses Flood, a storage tank burst and sent a wave of molasses through the streets. Roughly how fast was that wave moving?",
+    "choices": [
+      "About 35 mph (56 km/h)",
+      "About 3 mph (5 km/h)",
+      "About 12 mph (19 km/h)",
+      "About 60 mph (97 km/h)"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Great Molasses Flood",
+    "articleURL": "https://en.wikipedia.org/wiki/Great_Molasses_Flood",
+    "anchorText": "wave of molasses rushed through the streets at an estimated 35 miles per hour",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/70/BostonMolassesDisaster.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
