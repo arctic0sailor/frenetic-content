@@ -1,0 +1,34 @@
+[
+  {
+    "id": "bc73d399-cc9a-45d9-af85-b6dc9252187b",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "Charles Lindbergh made his famous solo flight across the Atlantic in a plane that had no front windshield \u2014 he could not see straight ahead.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Spirit of St. Louis",
+    "articleURL": "https://en.wikipedia.org/wiki/Spirit_of_St._Louis",
+    "anchorText": "there could be no front windshield, and that forward visibility would be limited to the side windows",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Spirit_Of_St_Louis2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5bc78ac7-4418-4d40-97db-d9913fe6f8d4",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "The queen, now the most powerful piece in chess, descends from a piece that was one of the weakest \u2014 able to move only a single square diagonally.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Queen (chess)",
+    "articleURL": "https://en.wikipedia.org/wiki/Queen_(chess)",
+    "anchorText": "the ferz, a weak piece only able to move or capture one step diagonally",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/af/Chess_piece_-_White_queen.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
