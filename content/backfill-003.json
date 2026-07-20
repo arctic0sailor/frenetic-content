@@ -1,0 +1,50 @@
+[
+  {
+    "id": "9e709f90-c01b-4630-95cf-dcc552d4e2f3",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Many opossums are immune to the venom of rattlesnakes and pit vipers, and will hunt and eat these snakes.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Opossum",
+    "articleURL": "https://en.wikipedia.org/wiki/Opossum",
+    "anchorText": "immune to the venom of rattlesnakes and pit vipers (Crotalinae) and regularly prey upon these snakes",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Didelphis_virginiana_with_young.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "26ea74dd-aefa-41d1-a228-5267927415b6",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Unlike most bats, which can barely move on the ground, vampire bats can run.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Vampire bat",
+    "articleURL": "https://en.wikipedia.org/wiki/Vampire_bat",
+    "anchorText": "vampire bats can walk, jump, and even run by using a unique, bounding gait",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/32/Desmodus_rotundus_A_Catenazzi.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "697bab0c-33fa-44fb-9b6a-7e864e726f47",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Although tardigrades are famous for surviving extreme conditions, biologists do not consider them true extremophiles, because they only endure such conditions rather than being adapted to thrive in them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Tardigrade",
+    "articleURL": "https://en.wikipedia.org/wiki/Tardigrade",
+    "anchorText": "Tardigrades are not considered universally extremophilic because they are not adapted to exploit many of the extreme conditions",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/20/SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2_%28white_background%29.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
