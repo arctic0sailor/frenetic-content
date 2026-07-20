@@ -1,0 +1,302 @@
+[
+  {
+    "id": "0c960ee0-38d9-4d1b-9cb5-4be27e3b8a3b",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: A sloth can hold its breath underwater for up to 40 minutes.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Sloth",
+    "articleURL": "https://en.wikipedia.org/wiki/Sloth",
+    "anchorText": "allowing them to hold their breath underwater for up to 40 minutes",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/be/Bicho-pregui%C3%A7a_3.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6e8367af-e168-42a1-a56b-e95f4a8a92e2",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Roughly how many teeth does a typical snail have?",
+    "choices": [
+      "None \u2014 snails have no teeth",
+      "About a dozen",
+      "A few hundred",
+      "Thousands"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Snail",
+    "articleURL": "https://en.wikipedia.org/wiki/Snail",
+    "anchorText": "Most snails have thousands of microscopic tooth-like structures",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Snail.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a0a0c36a-d339-4dd3-8211-74e5a929100b",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Chameleons change color primarily for which purpose?",
+    "choices": [
+      "Camouflage against their surroundings",
+      "Social signaling and temperature regulation",
+      "Absorbing more warmth from sunlight",
+      "Startling and confusing predators"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Chameleon",
+    "articleURL": "https://en.wikipedia.org/wiki/Chameleon",
+    "anchorText": "has functions in camouflage, but most commonly in social signalling and reactions to temperature",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Panther_Chameleon_738367_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "b14e79ba-e55d-4b8a-9c58-4c2bdad148df",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Flamingo chicks hatch already bright pink, just like their parents.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Flamingo",
+    "articleURL": "https://en.wikipedia.org/wiki/Flamingo",
+    "anchorText": "Young flamingos hatch with greyish-red plumage",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flamingos_Laguna_Colorada.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "748f5b43-714a-4bd8-9f8d-55f46121bad4",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "Who has more bones in their body?",
+    "choices": [
+      "A full-grown adult",
+      "A newborn baby"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Human skeleton",
+    "articleURL": "https://en.wikipedia.org/wiki/Human_skeleton",
+    "anchorText": "this total decreases to around 206 bones by adulthood after some bones fuse together",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Human-Skeleton.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "43dde8bb-92b0-4d2e-8406-1ddb0d486322",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "Botanically, an avocado is classified as which of these?",
+    "choices": [
+      "A berry",
+      "A drupe, like a peach or plum"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Avocado",
+    "articleURL": "https://en.wikipedia.org/wiki/Avocado",
+    "anchorText": "botanically a large berry containing a single large seed",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Persea_americana_fruit_2.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5c2229fc-e70f-4799-bddb-2bd9c877d5c9",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: The eyes of Arctic reindeer change color with the seasons \u2014 gold in summer, blue in winter.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Reindeer",
+    "articleURL": "https://en.wikipedia.org/wiki/Reindeer",
+    "anchorText": "reindeer eyes changes in color from gold in summer to blue in winter",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "03af7ed0-33fa-47ee-a8cd-9c11fb77a788",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "How did the turkey, a bird native to North America, get its English name?",
+    "choices": [
+      "From its gobbling call, which sounds like 'turkey'",
+      "From Turkish merchants who first traded it",
+      "From guineafowl brought to Europe via Turkey",
+      "From the Ottoman court, which prized the bird"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Turkey (bird)",
+    "articleURL": "https://en.wikipedia.org/wiki/Turkey_(bird)",
+    "anchorText": "Guineafowl were first imported to Europe via Turkey, hence the name",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Male_wild_turkey_%28Meleagris_gallopavo%29_strutting.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fd115d6d-03b0-458d-b458-558b87331716",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Fortune cookies most likely originated with immigrants from which country?",
+    "choices": [
+      "China",
+      "Japan",
+      "Vietnam",
+      "Korea"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Fortune cookie",
+    "articleURL": "https://en.wikipedia.org/wiki/Fortune_cookie",
+    "anchorText": "originated from cookies made by Japanese immigrants to the United States",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Fortune_cookies.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "7d90642c-8efe-4652-9c4e-840857195126",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Nachos are named after the real person who first made them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Nachos",
+    "articleURL": "https://en.wikipedia.org/wiki/Nachos",
+    "anchorText": "The dish was created by, and named after, Mexican restaurateur",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/87/Nachos-cheese.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3c930230-3c14-432b-8170-1c43f4958102",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "The shortest recorded war in history lasted about how long?",
+    "choices": [
+      "About 40 minutes",
+      "About 4 hours",
+      "About 4 days",
+      "About 4 weeks"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Anglo-Zanzibar War",
+    "articleURL": "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War",
+    "anchorText": "The conflict lasted between 38 and 45 minutes, marking it as the shortest recorded war in history",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/AngloZanzibarWar.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "33018afe-8945-4fb4-8ff7-5059de5cba45",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Old windows are thicker at the bottom because glass is a slow-moving liquid that has flowed downward over the centuries.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Glass",
+    "articleURL": "https://en.wikipedia.org/wiki/Glass",
+    "anchorText": "This assumption is incorrect, as once solidified, glass stops flowing",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Fassade_Wilhelmstrasse_65%2C_Berlin-Mitte%2C_160417%2C_ako.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0483c8c9-8cb7-4933-9878-cd8e32a93f60",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Different regions of the tongue are specialized for different tastes \u2014 sweet at the tip, bitter at the back.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Tongue map",
+    "articleURL": "https://en.wikipedia.org/wiki/Tongue_map",
+    "anchorText": "every taste sensation can come from all regions of the tongue",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Taste_buds.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "405e1ef9-1cb8-4f93-8a11-c0a4629b5d18",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: On a hot, sunny day the top of the Eiffel Tower leans several inches away from the sun.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Eiffel Tower",
+    "articleURL": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+    "anchorText": "the top of the tower may shift away from the sun by up to 18 cm",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ac116978-eed7-4b32-a7d0-44fe136de93f",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Which is the only planet in the Solar System less dense than water?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Saturn",
+    "articleURL": "https://en.wikipedia.org/wiki/Saturn",
+    "anchorText": "Saturn is the only planet of the Solar System that is less dense than water",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Saturn_global_view_from_Cassini%2C_rings_open_Better_Colour.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c1665f54-1546-43e6-849f-3b87c701d68a",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Perfectly pure water is actually a poor conductor of electricity.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Purified water",
+    "articleURL": "https://en.wikipedia.org/wiki/Purified_water",
+    "anchorText": "pure water is a poor conductor",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Aqua-distillata.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "33257549-7e76-48d0-96ba-0cfebb589259",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "Seen from space, what color is the Sun?",
+    "choices": [
+      "Yellow",
+      "White"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Sun",
+    "articleURL": "https://en.wikipedia.org/wiki/Sun",
+    "anchorText": "The Sun's colour is white",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_Sun_in_white_light.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "008e9de7-979c-4f77-be5f-476ee8f7244d",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: Bananas are naturally radioactive, mostly because of the potassium they contain.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Banana equivalent dose",
+    "articleURL": "https://en.wikipedia.org/wiki/Banana_equivalent_dose",
+    "anchorText": "Bananas contain naturally occurring radioactive isotopes, particularly potassium-40",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Banana-Single.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
