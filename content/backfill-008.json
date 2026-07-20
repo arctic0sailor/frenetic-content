@@ -1,0 +1,68 @@
+[
+  {
+    "id": "4a13dd3d-537e-48bd-9e95-5ccb3f82f9ee",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "It is statistically possible for a treatment to beat another in every single subgroup of patients, yet look worse than it once all the patients are pooled together.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Simpson's paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Simpson's_paradox",
+    "anchorText": "a trend appears in several groups of data but disappears or reverses when the groups are combined",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/47/Simpson%27s_paradox_continuous.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5cfccb0e-07d9-4001-b478-f117e71edd17",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "In any group of six people, you are guaranteed to find either three who all know one another or three who are all mutual strangers.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Theorem on friends and strangers",
+    "articleURL": "https://en.wikipedia.org/wiki/Theorem_on_friends_and_strangers",
+    "anchorText": "In any party of six people, at least three of them are",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Friends_strangers_graph.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8a591884-e791-42a2-9fd6-413874f46c5a",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Which is the single rarest naturally occurring element in the Earth's crust?",
+    "choices": [
+      "Francium",
+      "Astatine",
+      "Plutonium",
+      "Polonium"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Astatine",
+    "articleURL": "https://en.wikipedia.org/wiki/Astatine",
+    "anchorText": "the rarest naturally occurring element in the Earth's crust",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/52/Glow_from_a_sample_of_astatine_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0e263e2a-80de-4c5a-a460-6dae15d507bf",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "Diamond is the most thermodynamically stable form of carbon at ordinary room temperature and pressure.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Diamond",
+    "articleURL": "https://en.wikipedia.org/wiki/Diamond",
+    "anchorText": "diamond is metastable and converts to it at a negligible rate under those conditions",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Rough_Diamond.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
