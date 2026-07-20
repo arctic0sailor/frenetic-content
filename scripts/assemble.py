@@ -5,7 +5,7 @@ import pathlib
 import sys
 
 sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent))
-from validate import validate_batch, existing_ids_in
+from validate import validate_batch, existing_ids_in, existing_urls_in
 
 
 def assemble(batch_name, root=None):
@@ -13,6 +13,18 @@ def assemble(batch_name, root=None):
     survivors = json.loads((root / "work" / "survivors.json").read_text())
     if not survivors:
         print("assemble: zero survivors — nothing to publish")
+        return 3
+
+    published_urls = existing_urls_in(root / "content")
+    deduped = []
+    for q in survivors:
+        if q.get("articleURL") in published_urls:
+            print(f"DEDUPE (article already published): {q.get('articleTitle')}")
+            continue
+        deduped.append(q)
+    survivors = deduped
+    if not survivors:
+        print("assemble: zero survivors after dedupe — nothing to publish")
         return 3
 
     problems = validate_batch(survivors, existing_ids_in(root / "content"))

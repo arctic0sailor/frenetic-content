@@ -9,6 +9,7 @@ Produce EXACTLY 25 candidate questions as a JSON array written to
 `work/candidates.json` (use the Write tool; output nothing else).
 Tonight's focus categories: {{CATEGORIES}}. Draw most questions from these, but
 a brilliant find from any field is always welcome.
+Never write questions about these already-published articles: {{EXCLUDE}}.
 
 ## What makes a frenetic question
 
@@ -33,6 +34,18 @@ a brilliant find from any field is always welcome.
 - Vary difficulty and tone; never two questions on the same article; skip
   anything a regular quiz-app user has seen a hundred times (Napoleon's height,
   goldfish memory, the Great Wall from space).
+- KILL-ON-SIGHT staples: any fact that circulates as a listicle/pub-quiz
+  staple is dead on arrival even if it surprises the uninitiated — e.g.
+  avocado/banana botany, banana radioactivity, Saturn would float, newborn
+  bone count, shortest war, glass-flows myth, tongue map, Napoleon's height,
+  goldfish memory, Great Wall from space, Venus hottest, Scotland's unicorn,
+  orange fruit-before-color, Manhattan-nutmeg swap, fortune cookie origins,
+  starfish brains. Hunt the article's less-traveled sections for the fact
+  nobody has heard yet.
+- Distractor homogeneity leak: the correct answer must never be the
+  structural odd-one-out. If three options are edible nuts and the answer is
+  poison ivy, test-takers win without knowledge — at least one distractor
+  must share the answer's "weirdness axis."
 
 ## Output schema (every field required)
 

@@ -32,7 +32,7 @@ def validate_batch(questions, existing_ids):
             if not isinstance(q[field], str) or not q[field].strip():
                 errors.append(f"{where}: {field} must be a non-empty string")
         fmt = q["format"]
-        if fmt not in CHOICE_COUNT:
+        if not isinstance(fmt, str) or fmt not in CHOICE_COUNT:
             errors.append(f"{where}: format {fmt!r} not in {sorted(CHOICE_COUNT)}")
             continue
         choices = q["choices"]
@@ -77,6 +77,17 @@ def existing_ids_in(content_dir):
         except (json.JSONDecodeError, AttributeError, TypeError):
             print(f"warning: unreadable published batch {path}", file=sys.stderr)
     return ids
+
+
+def existing_urls_in(content_dir):
+    urls = set()
+    for path in pathlib.Path(content_dir).glob("*.json"):
+        try:
+            for q in json.loads(path.read_text()):
+                urls.add(q.get("articleURL"))
+        except (json.JSONDecodeError, AttributeError, TypeError):
+            print(f"warning: unreadable published batch {path}", file=sys.stderr)
+    return urls
 
 
 if __name__ == "__main__":

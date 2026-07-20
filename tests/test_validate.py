@@ -62,5 +62,8 @@ class ValidateTests(unittest.TestCase):
     def test_bad_date_fails(self):
         self.assertTrue(validate_batch([good(date="20-07-2026")], set()))
 
+    def test_unhashable_format_does_not_crash(self):
+        self.assertTrue(validate_batch([good(format=["two"])], set()))
+
 if __name__ == "__main__":
     unittest.main()

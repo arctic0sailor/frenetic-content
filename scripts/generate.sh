@@ -10,7 +10,15 @@ CATEGORIES="${2:?usage: generate.sh <YYYY-MM-DD> <categories>}"
 mkdir -p work
 rm -f work/candidates.json
 
-PROMPT=$(sed -e "s/{{DATE}}/$DATE/g" -e "s/{{CATEGORIES}}/$CATEGORIES/g" prompts/generate.md)
+EXCLUDE=$(python3 -c "
+import json, pathlib
+titles = []
+for p in sorted(pathlib.Path('content').glob('*.json')):
+    try: titles += [q['articleTitle'] for q in json.loads(p.read_text())]
+    except Exception: pass
+print('; '.join(titles) if titles else 'none yet')")
+
+PROMPT=$(sed -e "s/{{DATE}}/$DATE/g" -e "s/{{CATEGORIES}}/$CATEGORIES/g" prompts/generate.md | EXCLUDE="$EXCLUDE" python3 -c "import os,sys; sys.stdout.write(sys.stdin.read().replace('{{EXCLUDE}}', os.environ['EXCLUDE']))")
 
 claude -p "$PROMPT" \
   --model claude-opus-4-8 \

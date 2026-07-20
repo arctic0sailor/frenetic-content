@@ -11,7 +11,7 @@ for i in $(seq 1 "$RUNS"); do
   name="backfill-$(printf '%03d' "$n").json"
   echo "=== backfill run $i/$RUNS → $name ==="
   scripts/nightly.sh "$name" || echo "run $i failed; continuing"
-  tail -3 "logs/nightly-$(date +%F).log"
+  tail -3 "logs/nightly-$(date +%F).log" || true
 done
 total=$(python3 -c "
 import json, pathlib

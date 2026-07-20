@@ -9,14 +9,26 @@ BATCH="${1:-$DATE.json}"
 LOG="logs/nightly-$DATE.log"
 mkdir -p logs work
 
-# Category wheel: 3 of 9 per night, rotating by day-of-year.
-CATS=(science history space biology engineering geography culture medicine mathematics)
-DOY=$((10#$(date +%j)))
-PICK="${CATS[$((DOY % 9))]}, ${CATS[$(((DOY + 3) % 9))]}, ${CATS[$(((DOY + 6) % 9))]}"
-
 {
+  if ! mkdir work/.lock 2>/dev/null; then
+    echo "SKIP: another run holds work/.lock"
+    exit 0
+  fi
+  trap 'rmdir work/.lock 2>/dev/null' EXIT
+  rm -f work/survivors.json   # M5: stale survivors from prior runs must not be assembled
+
+  # Category wheel: consecutive trio, rotating per-day for nightly runs and
+  # per-run for backfill batches (all same-day backfill runs must differ).
+  CATS=(science history space biology engineering geography culture medicine mathematics)
+  if [[ "$BATCH" == backfill-* ]]; then
+    n="${BATCH#backfill-}"; IDX=$((10#${n%.json}))
+  else
+    IDX=$((10#$(date +%j)))
+  fi
+  PICK="${CATS[$((IDX % 9))]}, ${CATS[$(((IDX + 1) % 9))]}, ${CATS[$(((IDX + 2) % 9))]}"
+
   echo "=== frenetic-content nightly $DATE (batch $BATCH, cats: $PICK) ==="
-  if [ -f "content/$BATCH" ]; then
+  if [ -f "content/$BATCH" ] && git ls-files --error-unmatch "content/$BATCH" >/dev/null 2>&1; then
     echo "SKIP: content/$BATCH already published"
     exit 0
   fi
@@ -34,10 +46,17 @@ PICK="${CATS[$((DOY % 9))]}, ${CATS[$(((DOY + 3) % 9))]}, ${CATS[$(((DOY + 6) % 
     exit 1
   fi
 
+  git pull --rebase origin main || { echo "FAILED: pull"; exit 1; }
+
   git add "content/$BATCH" manifest.json
   git commit -m "content: $BATCH
 
-Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>" || { echo "FAILED: commit"; exit 1; }
+Co-Authored-By: Claude Fable 5 <noreply@anthropic.com>" || {
+    git checkout -- manifest.json 2>/dev/null || true
+    rm -f "content/$BATCH"
+    echo "FAILED: commit (batch reverted)"
+    exit 1
+  }
   git push origin main || { echo "FAILED: push (batch committed locally)"; exit 1; }
   echo "OK: published $BATCH"
 } >> "$LOG" 2>&1

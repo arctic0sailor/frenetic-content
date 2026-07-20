@@ -15,8 +15,13 @@ needed):
 3. TRAP: Would a sharp generalist confidently pick a WRONG option? Kill if the
    truth is what most people would guess anyway, or if the question is merely
    obscure rather than counter-intuitive.
+   Kill also if the fact is a widely circulated trivia staple (listicle/pub-quiz
+   canon) — counter-intuitive on first hearing does not save a fact most sharp
+   players have already heard.
 4. LEAK: Can the question be answered from its own wording, option style, or
    test-taking heuristics without knowing the fact? Kill if so.
+   Kill if the correct option is identifiable by structure — the odd-one-out
+   among homogeneous distractors — without knowing the fact.
 5. FAIR: Is exactly one option correct, with no defensible reading that makes
    a "wrong" option right? Kill on ambiguity.
 
