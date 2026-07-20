@@ -1,0 +1,36 @@
+[
+  {
+    "id": "dc9b0ea3-8bb2-4358-8b33-450064abfa0b",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Each half-turn of Scotland's Falkirk Wheel lifts boats along with about 500 tonnes of water some 24 metres. Roughly how much energy does one half-turn use?",
+    "choices": [
+      "Roughly the same as boiling eight kettles of water",
+      "About the same as toasting a few slices of bread",
+      "Enough to power a small town for an hour",
+      "As much as a train uses accelerating from a stop"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Falkirk Wheel",
+    "articleURL": "https://en.wikipedia.org/wiki/Falkirk_Wheel",
+    "anchorText": "roughly the same as boiling eight kettles of water",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/FalkirkWheelSide_2004_SeanMcClean.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5f3e8d4e-63ef-47b1-a6b6-046214ee92d5",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "To raise and lower ships between water levels, how do the Panama Canal's locks move the water in and out of each chamber?",
+    "choices": [
+      "Powerful pumps force the water in and out",
+      "The water flows in and out by gravity alone"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Panama Canal locks",
+    "articleURL": "https://en.wikipedia.org/wiki/Panama_Canal_locks",
+    "anchorText": "The water is moved by gravity and is controlled by huge valves",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Panama_Canal_Map_EN.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
