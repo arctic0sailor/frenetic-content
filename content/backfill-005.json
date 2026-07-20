@@ -1,0 +1,18 @@
+[
+  {
+    "id": "4d80da44-ddea-44fa-8a8c-f1a6e945dc05",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "True or False: In clinical trials, placebos have produced measurable benefits even when patients were openly told the pills contained no active drug.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Placebo",
+    "articleURL": "https://en.wikipedia.org/wiki/Placebo",
+    "anchorText": "open-label placebos may have positive effects in comparison to no treatment",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Cebocap.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
