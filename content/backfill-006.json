@@ -1,0 +1,84 @@
+[
+  {
+    "id": "2f93c78c-f782-4f72-a6e1-8e19e4ac3dc9",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "A single geometric solid can have a finite volume and yet an infinite surface area.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Gabriel's horn",
+    "articleURL": "https://en.wikipedia.org/wiki/Gabriel%27s_horn",
+    "anchorText": "infinite surface area but finite volume",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Trompette_de_Gabriel_%28volume1%29.PNG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "35fe9ec5-513a-4008-a038-45d6c7d87621",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "In the classic \"100 prisoners problem,\" if all prisoners use the optimal strategy, what is the chance that every one of the 100 survives?",
+    "choices": [
+      "Less than 1 in a trillion",
+      "About 1%",
+      "About 31%",
+      "About 99%"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "100 prisoners problem",
+    "articleURL": "https://en.wikipedia.org/wiki/100_prisoners_problem",
+    "anchorText": "the prisoners survive in a surprising 31% of cases",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/05/100_prisoners_problem_qtl1.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3dbe8f46-3068-4353-81be-8b9440ec4018",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "If you measure a country's coastline with a shorter and shorter ruler, the total length you record...",
+    "choices": [
+      "settles on one true value",
+      "just keeps getting longer"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Coastline paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Coastline_paradox",
+    "anchorText": "the shorter the ruler, the longer the measured border",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Britain-fractal-coastline-100km.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "227a6614-5536-46b6-b908-5bc613005741",
+    "date": "2026-07-20",
+    "format": "two",
+    "question": "Roll a coin all the way around another coin of the same size without slipping. How many full rotations does the moving coin make?",
+    "choices": [
+      "One",
+      "Two"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Coin rotation paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Coin_rotation_paradox",
+    "anchorText": "the moving coin completes not one but two full rotations",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/80/Coin_reverse_rotation_paradox.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fb9e1890-b88d-4067-bc4d-b6b5bd059b17",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "Drill a cylindrical hole straight through the center of a sphere: the volume of the leftover ring depends only on the ring's height, not on how big the original sphere was.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Napkin ring problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Napkin_ring_problem",
+    "anchorText": "this volume does not depend on the original sphere's radius but only on the resulting band's height",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/27/Sphere_bands.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
