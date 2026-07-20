@@ -1,0 +1,36 @@
+[
+  {
+    "id": "c86c068a-cb86-4e55-b1b1-a7524cc9e8d0",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "The electric eel of South America is, despite its name, most closely related to which of these fish?",
+    "choices": [
+      "Moray eels",
+      "Catfish",
+      "Electric rays",
+      "Lampreys"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Electric eel",
+    "articleURL": "https://en.wikipedia.org/wiki/Electric_eel",
+    "anchorText": "This order is more closely related to catfish",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Electric-eel.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cae1ca25-f59f-48bd-8ba5-7e761a47bd1e",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "There is a small community in Washington State whose residents cannot drive to the rest of their own state without first passing through Canada.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Point Roberts, Washington",
+    "articleURL": "https://en.wikipedia.org/wiki/Point_Roberts,_Washington",
+    "anchorText": "or without passing through Canada by boat or private airplane",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Point_Roberts%2C_Washington.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
