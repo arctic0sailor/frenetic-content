@@ -1,0 +1,166 @@
+[
+  {
+    "id": "3f369b3f-58a3-4765-aa7c-95ef935222eb",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "It is possible to move a single individual from one group into another and increase the average of BOTH groups at the same time, without any person's value changing.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Will Rogers phenomenon",
+    "articleURL": "https://en.wikipedia.org/wiki/Will_Rogers_phenomenon",
+    "anchorText": "moving an observation from one group to another increases the average of both groups",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Will_Rogers_1922.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "368c681f-374f-4f12-8748-417de15c0664",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "There exist two gambling games, each guaranteed to lose money in the long run, that become a winning strategy when you simply alternate between them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Parrondo's paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Parrondo's_paradox",
+    "anchorText": "a combination of losing strategies can become a winning strategy",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3c147252-1a2d-4965-a88f-0afc1a439504",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "You can design three ordinary-looking dice \u2014 A, B and C \u2014 so that A usually beats B, B usually beats C, and yet C usually beats A.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Intransitive dice",
+    "articleURL": "https://en.wikipedia.org/wiki/Intransitive_dice",
+    "anchorText": "for each die in the set, there is another die that rolls a higher number than it",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3e7b9e42-9ba8-4169-a221-06ed6dbf5871",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "The familiar emblem of three interlocking rings cannot actually be built from three true circles in real three-dimensional space.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Borromean rings",
+    "articleURL": "https://en.wikipedia.org/wiki/Borromean_rings",
+    "anchorText": "it is not possible to form the Borromean rings from circles in three-dimensional space",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Borromean_Rings_Illusion_%28transparent%29.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "aa81fce0-7a4c-4c83-8e68-1c81601c023a",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "For a bead sliding without friction from a high point down to a lower point off to one side, the fastest possible track is a straight ramp \u2014 because a straight line is the shortest distance.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Brachistochrone curve",
+    "articleURL": "https://en.wikipedia.org/wiki/Brachistochrone_curve",
+    "anchorText": "from one point to another, is not the shortest path, namely, a straight line, but the arc of a circle",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Brachistochrone_curve.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "1d97785c-859f-4222-b8a5-6bcb4ffa0066",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "At any given moment, a healthy person breathes about equally through both nostrils.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Nasal cycle",
+    "articleURL": "https://en.wikipedia.org/wiki/Nasal_cycle",
+    "anchorText": "greater airflow through one nostril with periodic alternation between the nostrils",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Concha_nasalis.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "86539be7-efaf-4bbf-8668-0a8444895c88",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "Developmental prosopagnosia \u2014 'face blindness,' the difficulty recognizing faces \u2014 affects roughly what share of people?",
+    "choices": [
+      "About 1 in 10,000",
+      "About 1 in 40",
+      "About 1 in 1,000",
+      "About 1 in 6"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Prosopagnosia",
+    "articleURL": "https://en.wikipedia.org/wiki/Prosopagnosia",
+    "anchorText": "developmental form of the disorder also exists, with a prevalence of 2\u20132.5%",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Fusiform_face_area_face_recognition.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "2e5669e4-0661-4a40-9027-cb699bc8b844",
+    "date": "2026-07-20",
+    "format": "four",
+    "question": "A person with the disorder methemoglobinemia can have strikingly blue-gray skin. What color is their actual blood?",
+    "choices": [
+      "Chocolate brown",
+      "Bright red",
+      "Blue",
+      "Deep green"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Methemoglobinemia",
+    "articleURL": "https://en.wikipedia.org/wiki/Methemoglobinemia",
+    "anchorText": "the arterial blood of met-Hb patients is brown",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/ChocolateBrownBlood_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3cdb008f-a400-4f30-957d-254bdbae2cac",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "In documented cases of foreign accent syndrome, some patients have suddenly gained genuine fluency in a foreign language they never studied.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Foreign accent syndrome",
+    "articleURL": "https://en.wikipedia.org/wiki/Foreign_accent_syndrome",
+    "anchorText": "There has been no verified case where a patient's foreign language skills have improved after a brain injury",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f749c764-a454-42ec-8871-875bedd438b3",
+    "date": "2026-07-20",
+    "format": "tf",
+    "question": "There is a frog that survives winter by freezing almost solid \u2014 with no heartbeat, no breathing and no brain activity \u2014 then thaws back to life in the spring.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Wood frog",
+    "articleURL": "https://en.wikipedia.org/wiki/Wood_frog",
+    "anchorText": "wood frogs have no detectable vital signs: no heartbeat, breathing, blood circulation",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
