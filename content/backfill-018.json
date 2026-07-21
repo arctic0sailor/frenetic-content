@@ -1,0 +1,70 @@
+[
+  {
+    "id": "4b94d30b-cac3-4c02-b786-525ed4cc3bbc",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Other than Earth, which is the only known body in the Solar System with stable bodies of liquid on its surface?",
+    "choices": [
+      "Mars",
+      "Europa",
+      "Titan",
+      "Venus"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Titan (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Titan_(moon)",
+    "anchorText": "the only known object in the Solar System besides Earth with clear evidence of stable bodies of surface liquid",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Titan_in_true_color_by_Kevin_M._Gill.jpg/500px-Titan_in_true_color_by_Kevin_M._Gill.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8d9652b4-64f4-47f0-84e8-f2fa51ca5c1a",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "The blue of a person's blue eyes comes from a blue pigment in the iris.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Eye color",
+    "articleURL": "https://en.wikipedia.org/wiki/Eye_color",
+    "anchorText": "blue eyes result from structural color in combination with certain concentrations of non-blue pigments",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Farbverlauf_Augenfarben.jpg/500px-Farbverlauf_Augenfarben.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "eb7491cb-967c-4e59-bdfd-ab2cfbe92bb8",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "In many large real-world collections of numbers, which is most likely to be a number's leading digit?",
+    "choices": [
+      "1",
+      "5",
+      "9",
+      "Every digit is equally likely"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Benford's law",
+    "articleURL": "https://en.wikipedia.org/wiki/Benford%27s_law",
+    "anchorText": "the number 1 appears as the leading significant digit about 30% of the time",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rozklad_benforda.svg/500px-Rozklad_benforda.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "55b2a24a-00a0-499c-89cd-b9330e7bcb1a",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "Although mantis shrimp have far more types of color receptor than humans, they are actually worse at telling similar colors apart.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Mantis shrimp",
+    "articleURL": "https://en.wikipedia.org/wiki/Mantis_shrimp",
+    "anchorText": "they do not have the ability to discriminate wavelengths less than 25 nm apart",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/OdontodactylusScyllarus2.jpg/500px-OdontodactylusScyllarus2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
