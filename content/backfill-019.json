@@ -1,0 +1,38 @@
+[
+  {
+    "id": "48bfb673-4d50-40c4-a9ed-3976b11c419e",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "How long did the Republic of Venice survive as an independent state?",
+    "choices": [
+      "About 250 years",
+      "About 500 years",
+      "About 1,100 years",
+      "About 1,600 years"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Republic of Venice",
+    "articleURL": "https://en.wikipedia.org/wiki/Republic_of_Venice",
+    "anchorText": "over the course of its 1,100 years of history",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/500px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "aa743d03-c5bb-44ac-a87a-0c2713ce3192",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Which of these animals has the densest fur of any animal on Earth?",
+    "choices": [
+      "Polar bear",
+      "Chinchilla",
+      "Sea otter",
+      "Arctic fox"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Sea otter",
+    "articleURL": "https://en.wikipedia.org/wiki/Sea_otter",
+    "anchorText": "the thickest fur of any animal",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg/500px-Sea_Otter_%28Enhydra_lutris%29_%2825169790524%29_crop.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
