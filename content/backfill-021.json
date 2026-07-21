@@ -1,0 +1,36 @@
+[
+  {
+    "id": "a4b510b4-d982-48cc-9fba-0dc9def69196",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "A certain shrimp can snap a claw shut so violently that the collapsing bubble briefly emits a flash of light.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Alpheidae",
+    "articleURL": "https://en.wikipedia.org/wiki/Alpheidae",
+    "anchorText": "the cavitation bubble emits a short flash of light",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Alpheus_distinguendus.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6d624f69-37a6-4272-abea-8f1491f830a9",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "What mainly guides a train around a curve and keeps its wheels centred on the rails?",
+    "choices": [
+      "The flanges on the wheels gripping the rails",
+      "The slight cone shape of the wheels",
+      "The curve of the rails pushing the wheels sideways",
+      "Electronic sensors that steer each axle"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Wheelset (rail transport)",
+    "articleURL": "https://en.wikipedia.org/wiki/Wheelset_(rail_transport)",
+    "anchorText": "Most train wheels have a conical taper",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Rail_vehicle_wheelset.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
