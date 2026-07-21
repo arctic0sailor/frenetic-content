@@ -1,0 +1,52 @@
+[
+  {
+    "id": "81cec6e7-2c14-4042-8926-8a38d1af7927",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Take a huge social network and compare people with their friends. On average, how does the number of friends YOU have compare with the number of friends your friends have?",
+    "choices": [
+      "Your friends have more friends than you do, on average",
+      "You and your friends have about the same number of friends",
+      "Your friends have fewer friends than you do, on average",
+      "There is no consistent pattern either way"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Friendship paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Friendship_paradox",
+    "anchorText": "an individual's friends have more friends than that individual",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Moreno_Sociogram_2nd_Grade.png/330px-Moreno_Sociogram_2nd_Grade.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4c9439c1-7e00-42e1-aa26-26c1011767e3",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "It is possible to make a solid object of completely uniform density that, no matter how you set it down, always wobbles back to the very same resting position \u2014 with no hidden weights and no hollow parts inside.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "G\u00f6mb\u00f6c",
+    "articleURL": "https://en.wikipedia.org/wiki/G%C3%B6mb%C3%B6c",
+    "anchorText": "just one stable and one unstable point of equilibrium when resting on a flat surface",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gomboc2.jpg/330px-Gomboc2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "919974c5-332c-424c-9b68-22515eed22f6",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "Ordinary dice numbered 1 through 6 are the ONLY way to label a pair of six-sided dice with positive whole numbers so that every total from 2 to 12 turns up with its usual probability.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Sicherman dice",
+    "articleURL": "https://en.wikipedia.org/wiki/Sicherman_dice",
+    "anchorText": "only pair of 6-sided dice that are not normal dice",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sicherman_dice.svg/330px-Sicherman_dice.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
