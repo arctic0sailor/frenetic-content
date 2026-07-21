@@ -1,0 +1,18 @@
+[
+  {
+    "id": "e769f153-13ed-405b-9fe1-06d63632b96f",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "If you stand exactly on the famous Prime Meridian line painted at the Greenwich Observatory, a GPS receiver will read your longitude as precisely zero.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Prime meridian (Greenwich)",
+    "articleURL": "https://en.wikipedia.org/wiki/Prime_meridian_(Greenwich)",
+    "anchorText": "runs about 102 metres to the east of the Greenwich meridian",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Greenwich_observatory_laser.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
