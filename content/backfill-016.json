@@ -1,0 +1,68 @@
+[
+  {
+    "id": "660bda4e-faac-43a7-9de0-1032b4036939",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "True or False: Thanks to the Leidenfrost effect, a person can wet their hand and briefly dip it into molten lead without being burned.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Leidenfrost effect",
+    "articleURL": "https://en.wikipedia.org/wiki/Leidenfrost_effect",
+    "anchorText": "a person can wet their hand and briefly dip it into molten lead without injury",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Leidenfrost_droplet.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "97c79b02-e87b-419c-91ff-4919c2a81ab2",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "True or False: Above a certain altitude the air pressure is so low that a person's saliva and tears would boil at normal body temperature.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Armstrong limit",
+    "articleURL": "https://en.wikipedia.org/wiki/Armstrong_limit",
+    "anchorText": "atmospheric pressure is sufficiently low that water boils at the normal temperature of the human body",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/High-altitude_balloon_-_ATLAS0_mission.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "31aa6ad6-8fd4-4adc-aff9-4adba2ed61d3",
+    "date": "2026-07-21",
+    "format": "four",
+    "question": "Oxygen gas is colorless. When cooled into a liquid, what color does oxygen become?",
+    "choices": [
+      "Colorless, just like the gas",
+      "Pale green",
+      "Pale sky-blue",
+      "Pale amber"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Oxygen",
+    "articleURL": "https://en.wikipedia.org/wiki/Oxygen",
+    "anchorText": "clear substances with a light sky-blue color caused by absorption in the red",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Liquid_oxygen_in_a_beaker_%28cropped_and_retouched%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a5216073-5df8-4755-80c5-81b71efbd2a0",
+    "date": "2026-07-21",
+    "format": "tf",
+    "question": "True or False: You can estimate the value of \u03c0 by repeatedly dropping a needle onto a floor of evenly spaced parallel lines and counting how often it lands across a line.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Buffon's needle problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Buffon's_needle_problem",
+    "anchorText": "This can be used to design a Monte Carlo method for approximating the number \u03c0",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Buffon%27s_needles_visualization.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
