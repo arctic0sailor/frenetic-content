@@ -1,0 +1,52 @@
+[
+  {
+    "id": "0cfa925b-83ba-4b34-af01-adbf64f4c403",
+    "date": "2026-09-24",
+    "format": "four",
+    "question": "The cashew tree belongs to the same plant family as which of the following?",
+    "choices": [
+      "Poison ivy",
+      "The coconut palm",
+      "Stinging nettle",
+      "The almond tree"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Cashew",
+    "articleURL": "https://en.wikipedia.org/wiki/Cashew",
+    "anchorText": "chemically related to the better-known and also toxic allergenic oil urushiol, which is found in the related poison ivy",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cashew_apples.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ecd56db6-60ca-4b1f-a33b-8251365d2b84",
+    "date": "2026-09-24",
+    "format": "tf",
+    "question": "Leprosy directly causes an infected person's fingers and toes to rot and drop off.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Leprosy",
+    "articleURL": "https://en.wikipedia.org/wiki/Leprosy",
+    "anchorText": "Injuries can become infected, causing tissue damage and shortening of fingers, toes, and limbs",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Tropmed-91-216-g001.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a4941ab5-feaa-452c-aad1-8e44f268f141",
+    "date": "2026-09-24",
+    "format": "tf",
+    "question": "It is mathematically possible for a curve to be continuous \u2014 unbroken \u2014 at every single point, yet have no defined slope (no tangent line) at any point at all.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Weierstrass function",
+    "articleURL": "https://en.wikipedia.org/wiki/Weierstrass_function",
+    "anchorText": "continuous everywhere but differentiable nowhere",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/WeierstrassFunction.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
