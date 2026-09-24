@@ -1,0 +1,170 @@
+[
+  {
+    "id": "129d2e89-9c79-49dd-bd91-689ad05ab774",
+    "date": "2026-09-25",
+    "format": "two",
+    "question": "To pack a small number of equal balls into the smallest possible volume, which arrangement wins?",
+    "choices": [
+      "Bunching them into a compact cluster",
+      "Lining them up in a single straight row (a 'sausage')"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Finite sphere packing",
+    "articleURL": "https://en.wikipedia.org/wiki/Finite_sphere_packing",
+    "anchorText": "With three or four spheres, the sausage packing is optimal",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cbf4b406-fdef-4a08-aac2-056428a64b7e",
+    "date": "2026-09-25",
+    "format": "tf",
+    "question": "At some moments there may be no pair of exactly opposite points on Earth that share both the same temperature and the same air pressure.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Borsuk\u2013Ulam theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Borsuk%E2%80%93Ulam_theorem",
+    "anchorText": "there is always a pair of antipodal points on the Earth's surface with equal temperatures and equal barometric pressures",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Antipodal.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ab9dea43-0d64-4304-b522-7f970eda10f8",
+    "date": "2026-09-25",
+    "format": "four",
+    "question": "A Goodstein sequence starts small, then its terms rocket upward to almost unimaginably huge values. What ultimately happens to every such sequence?",
+    "choices": [
+      "It grows to infinity",
+      "It always eventually falls all the way back to zero",
+      "It settles into an endlessly repeating cycle",
+      "Some rise forever and some don't, depending on the start"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Goodstein's theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Goodstein%27s_theorem",
+    "anchorText": "every Goodstein sequence eventually terminates at 0, no matter what the starting value is",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c734d1ff-dc53-4aac-8006-8b2125c1854e",
+    "date": "2026-09-25",
+    "format": "tf",
+    "question": "Sound waves passing through a liquid can, all by themselves, make it emit tiny flashes of light.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Sonoluminescence",
+    "articleURL": "https://en.wikipedia.org/wiki/Sonoluminescence",
+    "anchorText": "the emission of light from imploding bubbles in a liquid when excited by sound",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/91/Single_bubble_cropped.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "93549002-c693-4acc-b131-3d34a688917c",
+    "date": "2026-09-25",
+    "format": "four",
+    "question": "One moon of Saturn has one bright hemisphere, one coal-dark hemisphere, and a giant ridge running along its equator that gives it a walnut shape. Which moon?",
+    "choices": [
+      "Titan",
+      "Iapetus",
+      "Enceladus",
+      "Mimas"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Iapetus (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Iapetus_(moon)",
+    "anchorText": "a massive equatorial ridge that runs three-quarters of the way around the moon",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Iapetus_trailing_natural_color.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0a8c2df0-8bb3-4371-a9b9-dfb5abb6aa1f",
+    "date": "2026-09-25",
+    "format": "four",
+    "question": "Io is the most volcanically active world in the Solar System. What keeps its interior hot enough to erupt constantly?",
+    "choices": [
+      "Radioactive decay in its core, like Earth",
+      "Tidal forces flexing it as it's pulled between Jupiter and other moons",
+      "Leftover heat from its original formation",
+      "Absorbed heat from sunlight and solar radiation"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Io (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Io_(moon)",
+    "anchorText": "Io's main source of internal heat comes from tidal dissipation rather than radioactive isotope decay",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Io_highest_resolution_natural_color.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f755beca-63cd-4cde-9af1-8bb5e98bfb0b",
+    "date": "2026-09-25",
+    "format": "tf",
+    "question": "Humans have more types of color-sensing cone cells than their distant fish and reptile ancestors did.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Tetrachromacy",
+    "articleURL": "https://en.wikipedia.org/wiki/Tetrachromacy",
+    "anchorText": "a common ancestor of mammals lost two of its four kinds of cone cell",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/BirdVisualPigmentAbsorbance.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c75e32d7-43b7-4af0-848a-59b47855f636",
+    "date": "2026-09-25",
+    "format": "tf",
+    "question": "What you see a person's lips doing can change which syllable you hear them say, even when the actual sound never changes.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "McGurk effect",
+    "articleURL": "https://en.wikipedia.org/wiki/McGurk_effect",
+    "anchorText": "The visual information a person gets from seeing a person speak changes the way they hear the sound",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4b412620-27dc-41e7-80cb-784406ca3014",
+    "date": "2026-09-25",
+    "format": "tf",
+    "question": "Some people who are completely blind because their visual cortex is destroyed can still reliably 'guess' the location of objects they cannot consciously see.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Blindsight",
+    "articleURL": "https://en.wikipedia.org/wiki/Blindsight",
+    "anchorText": "the ability of people who are cortically blind to respond to visual stimuli that they do not consciously see",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "7ceacf65-7558-4b1c-87dc-06dbc3561683",
+    "date": "2026-09-25",
+    "format": "four",
+    "question": "In fibrodysplasia ossificans progressiva, muscle and connective tissue slowly turn to bone. What happens if surgeons cut out the unwanted new bone?",
+    "choices": [
+      "The body regrows even more bone, often explosively",
+      "That patch of bone is permanently removed",
+      "The removed tissue reverts to normal muscle",
+      "It halts the disease from spreading further"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Fibrodysplasia ossificans progressiva",
+    "articleURL": "https://en.wikipedia.org/wiki/Fibrodysplasia_ossificans_progressiva",
+    "anchorText": "attempts to surgically remove bone in a FOP patient may result in explosive growth of new bone",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Fibrodysplasia_ossificans_progressiva.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
