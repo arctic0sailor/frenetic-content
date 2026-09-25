@@ -1,0 +1,70 @@
+[
+  {
+    "id": "7e4e680e-a044-4317-84c2-a8c26ca05948",
+    "date": "2026-09-26",
+    "format": "two",
+    "question": "Three candidates, and every voter has rational, consistent preferences. Can a majority end up preferring A over B, a majority prefer B over C, and yet a majority also prefer C over A?",
+    "choices": [
+      "No \u2014 majority preferences can never form such a loop",
+      "Yes \u2014 the group's majority preferences really can loop like that"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Condorcet paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Condorcet_paradox",
+    "anchorText": "a majority of voters will prefer A to B, B to C, and also C to A",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "91f6c073-1db3-4c00-8758-607a780dfc89",
+    "date": "2026-09-26",
+    "format": "four",
+    "question": "A breathalyzer never fails to catch a truly drunk driver, and wrongly flags a sober driver only 5% of the time. About 1 in 1,000 drivers is actually drunk. A randomly stopped driver tests positive \u2014 how likely is it they're really drunk?",
+    "choices": [
+      "About 50%",
+      "About 2%",
+      "About 95%",
+      "About 20%"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Base rate fallacy",
+    "articleURL": "https://en.wikipedia.org/wiki/Base_rate_fallacy",
+    "anchorText": "the correct probability is about 2%",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/20/Base_rate_fallacy_with_vaccines.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "dbe9af2a-3890-4c6f-8581-5565f3df80eb",
+    "date": "2026-09-26",
+    "format": "tf",
+    "question": "A system whose temperature is a negative number on the Kelvin scale (below absolute zero) would be the coldest thing in the universe.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Negative temperature",
+    "articleURL": "https://en.wikipedia.org/wiki/Negative_temperature",
+    "anchorText": "a system with a truly negative temperature on the Kelvin scale is hotter than any system with a positive temperature",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8a/ColdnessScale.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "00cb08a6-245f-4446-92c6-e710b97f2299",
+    "date": "2026-09-26",
+    "format": "four",
+    "question": "Earth generates its own magnetic field. Exactly one moon in the Solar System is known to generate one internally. Which moon?",
+    "choices": [
+      "Titan",
+      "Ganymede",
+      "Earth's own Moon",
+      "Io"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Ganymede (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Ganymede_(moon)",
+    "anchorText": "Ganymede is the only natural satellite in the solar system to possess an internally generated magnetic field",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Ganymede_-_Perijove_34_Composite.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
