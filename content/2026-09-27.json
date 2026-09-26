@@ -1,0 +1,18 @@
+[
+  {
+    "id": "2e972e3f-3e3c-4e7a-84cb-3abd6db55dde",
+    "date": "2026-09-27",
+    "format": "tf",
+    "question": "A superfluid can spontaneously creep up the inside wall of its container, flow over the top edge, and drip out the bottom.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Superfluid helium-4",
+    "articleURL": "https://en.wikipedia.org/wiki/Superfluid_helium-4",
+    "anchorText": "superfluid helium can flow relatively easily up the wall of containers, over the top",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
