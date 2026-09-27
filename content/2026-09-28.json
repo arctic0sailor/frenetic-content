@@ -1,0 +1,52 @@
+[
+  {
+    "id": "a88a2364-c080-411d-8e16-5f4695f8bad3",
+    "date": "2026-09-28",
+    "format": "tf",
+    "question": "In the year 897, a pope was put on trial roughly nine months after his death \u2014 his corpse exhumed and brought before the court to answer the charges.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Cadaver Synod",
+    "articleURL": "https://en.wikipedia.org/wiki/Cadaver_Synod",
+    "anchorText": "the ecclesiastical trial of Pope Formosus, who had been dead for about nine months",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Jean_Paul_Laurens_Le_Pape_Formose_et_Etienne_VI_1870.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4a557eec-86dd-47f9-9b82-9713d693ea00",
+    "date": "2026-09-28",
+    "format": "tf",
+    "question": "The iconic beaked mask-and-robe costume of the 'plague doctor' dates back to the medieval Black Death of the 1300s.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Plague doctor",
+    "articleURL": "https://en.wikipedia.org/wiki/Plague_doctor",
+    "anchorText": "no evidence linking the early modern archetypal image of the plague doctor costume to medieval plague doctors",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Paul_F%C3%BCrst%2C_Der_Doctor_Schnabel_von_Rom_%28Holl%C3%A4nder_version%29.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "dbed9e9e-0bc3-44ce-a0f8-0cd0bd23c582",
+    "date": "2026-09-28",
+    "format": "four",
+    "question": "Ceres is the largest body in the asteroid belt. About what fraction of its mass is water ice?",
+    "choices": [
+      "Essentially none",
+      "About 1%",
+      "About a quarter",
+      "About three-quarters"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Ceres (dwarf planet)",
+    "articleURL": "https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)",
+    "anchorText": "suggesting that a quarter of its mass is water ice",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/76/Ceres_-_RC3_-_Haulani_Crater_%2822381131691%29_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
