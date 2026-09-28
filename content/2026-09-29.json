@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e8c3a1f6-7d2b-4e9c-82a4-1f6b3d8c7e29",
+    "date": "2026-09-29",
+    "format": "four",
+    "question": "No matter how it is designed, what is the maximum fraction of the wind's kinetic energy that a wind turbine can theoretically capture?",
+    "choices": [
+      "About 80%",
+      "About 59%",
+      "About 95%",
+      "Essentially all of it"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Betz's law",
+    "articleURL": "https://en.wikipedia.org/wiki/Betz%27s_law",
+    "anchorText": "capture more than 16/27 (59.3%) of the kinetic energy in wind",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Betz-tube.svg/250px-Betz-tube.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
