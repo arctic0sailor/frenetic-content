@@ -1,0 +1,18 @@
+[
+  {
+    "id": "b4a64687-d475-4d01-9b06-b12b6afc67bb",
+    "date": "2026-10-01",
+    "format": "tf",
+    "question": "Soon after a Manhattan skyscraper opened, engineers realized a strong wind could topple it \u2014 so crews secretly reinforced it at night while staff worked inside by day, and the fix stayed secret for 17 years.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Citicorp Center engineering crisis",
+    "articleURL": "https://en.wikipedia.org/wiki/Citicorp_Center_engineering_crisis",
+    "anchorText": "The reinforcement effort was kept secret until 1995",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Citigroup_Center_%281977%29_%28A._Moore%29_with_frame_-_agr_ink2.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
