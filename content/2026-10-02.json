@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8816dd7d-efd5-4ce9-a30d-b9d5a6a6dc6d",
+    "date": "2026-10-02",
+    "format": "tf",
+    "question": "A single sovereign country has territory in all four hemispheres at once \u2014 northern, southern, eastern, and western.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Kiribati",
+    "articleURL": "https://en.wikipedia.org/wiki/Kiribati",
+    "anchorText": "extending into the eastern and western hemispheres, as well as the northern and southern hemispheres",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
