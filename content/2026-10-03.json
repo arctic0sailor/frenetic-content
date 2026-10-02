@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c1cb7f27-b0ae-4ee7-884c-5c3a1fe4f6ea",
+    "date": "2026-10-03",
+    "format": "two",
+    "question": "You cut a round pizza into 8 slices using 4 straight cuts of equal angle, all passing through one point that is NOT the center. Two people take alternating slices. How do their shares compare?",
+    "choices": [
+      "Whoever gets the center slice ends up with more",
+      "They get exactly equal amounts"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Pizza theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Pizza_theorem",
+    "anchorText": "they will each get an equal amount of pizza, irrespective of the central cutting point",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Pizza_theorem_example.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "82102ff2-0039-4756-adae-48c8ddede480",
+    "date": "2026-10-03",
+    "format": "tf",
+    "question": "Take almost any four-digit number, arrange its digits into the largest and smallest numbers possible, and subtract. Repeat on the result. You will always eventually reach the number 6174 and get stuck there.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Kaprekar's routine",
+    "articleURL": "https://en.wikipedia.org/wiki/Kaprekar%27s_routine",
+    "anchorText": "with at least two distinct digits will reach 6174 within seven iterations",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
