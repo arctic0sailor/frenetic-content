@@ -1,0 +1,52 @@
+[
+  {
+    "id": "29139ee4-75ac-4d1b-9fe4-40137c5f076f",
+    "date": "2026-10-04",
+    "format": "tf",
+    "question": "Carbon monoxide, notorious as a silent killer, is also produced naturally inside the human body, where it works as a signaling molecule.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Carbon monoxide",
+    "articleURL": "https://en.wikipedia.org/wiki/Carbon_monoxide",
+    "anchorText": "Carbon monoxide is a bioactive molecule which acts as a gaseous signaling molecule",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Carbon_monoxide_2D.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "307cc088-94de-44d0-a33d-a17a357765f9",
+    "date": "2026-10-04",
+    "format": "four",
+    "question": "Mathematicians long wondered whether a single tile shape could cover a flat plane only in a pattern that never repeats. When was such a shape first proven to exist?",
+    "choices": [
+      "It still has not been found",
+      "In the 1960s",
+      "In the 1980s",
+      "In 2023"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Einstein problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Einstein_problem",
+    "anchorText": "The strictest version of the problem was solved in 2023, after an initial discovery in 2022",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Aperiodic_monotile_tiling.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "eee604af-493a-4285-84d3-fbf9daf6ce21",
+    "date": "2026-10-04",
+    "format": "two",
+    "question": "Start with an empty vase. In infinitely many steps finishing at noon, each step you add 10 balls (numbered in order) and then remove the lowest-numbered ball in the vase. At noon, the vase is\u2014",
+    "choices": [
+      "Empty",
+      "Holding infinitely many balls"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Ross\u2013Littlewood paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Ross%E2%80%93Littlewood_paradox",
+    "anchorText": "Hence, the vase is empty at noon",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ross-littlewood-graph.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
