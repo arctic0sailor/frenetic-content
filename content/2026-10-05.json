@@ -1,0 +1,36 @@
+[
+  {
+    "id": "f5988a98-dc5d-4da6-9557-f6a59ecc768d",
+    "date": "2026-10-05",
+    "format": "four",
+    "question": "The olm, a blind salamander that lives in European caves where food is scarce, is famous for its endurance. In controlled experiments, how long could one survive with no food at all?",
+    "choices": [
+      "Up to 2 months",
+      "Up to 1 year",
+      "Up to 10 years",
+      "Up to 25 years"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Olm",
+    "articleURL": "https://en.wikipedia.org/wiki/Olm",
+    "anchorText": "an olm can survive up to 10 years without food",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "deacf336-f506-483d-8ea7-e4d3170d3455",
+    "date": "2026-10-05",
+    "format": "tf",
+    "question": "True or false: During the great geomagnetic storm of 1859, some telegraph operators disconnected their batteries entirely and kept sending messages, powered only by the electric current the aurora induced in the wires.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Carrington Event",
+    "articleURL": "https://en.wikipedia.org/wiki/Carrington_Event",
+    "anchorText": "Some operators were able to continue to send and receive messages despite having disconnected their power supplies",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/92/Carrington_Richard_drawing_of_1859_sunspots.jpeg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
