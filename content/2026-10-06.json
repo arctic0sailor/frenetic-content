@@ -1,0 +1,36 @@
+[
+  {
+    "id": "8e7ec0ce-b884-4d3a-b856-68d950a1a113",
+    "date": "2026-10-06",
+    "format": "tf",
+    "question": "Under ultraviolet light, the fur of a platypus glows a bluish green.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Platypus",
+    "articleURL": "https://en.wikipedia.org/wiki/Platypus",
+    "anchorText": "It is also biofluorescent and glows cyan and green when under ultraviolet light",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f10a31df-7fcf-4eac-84bb-0e8f743ef26d",
+    "date": "2026-10-06",
+    "format": "four",
+    "question": "The 1917 Halifax Explosion \u2014 a munitions ship detonating in a harbour \u2014 was one of the largest man-made blasts before the nuclear age. Compared with it, roughly how powerful was the atomic bomb dropped on Hiroshima?",
+    "choices": [
+      "About 7 times as powerful",
+      "About 70 times as powerful",
+      "About 700 times as powerful",
+      "About 7,000 times as powerful"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Halifax Explosion",
+    "articleURL": "https://en.wikipedia.org/wiki/Halifax_Explosion",
+    "anchorText": "the explosive power of the Little Boy bomb was seven times that of the Halifax Explosion",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/79/Halifax_Explosion_blast_cloud_restored.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
