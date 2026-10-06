@@ -1,0 +1,34 @@
+[
+  {
+    "id": "27482cab-bbec-475f-a9b3-fd56dd5f08d8",
+    "date": "2026-10-07",
+    "format": "tf",
+    "question": "True or False: Like the other dwarf planets, Haumea is essentially round in shape.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Haumea",
+    "articleURL": "https://en.wikipedia.org/wiki/Haumea",
+    "anchorText": "Haumea rotates so quickly that it is distorted into a triaxial ellipsoid",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Haumea_Hubble.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "71bb5db8-7740-4f69-a008-f34d5882c5aa",
+    "date": "2026-10-07",
+    "format": "tf",
+    "question": "True or False: Astronomers have found a ring system around a small, asteroid-like body only a few hundred kilometres across \u2014 far tinier than any planet.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "10199 Chariklo",
+    "articleURL": "https://en.wikipedia.org/wiki/10199_Chariklo",
+    "anchorText": "Chariklo was the first minor planet discovered to have rings",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/e5/10199_Chariklo_Hubble.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
