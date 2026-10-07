@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b1a08883-a55d-48ce-a23c-7f62857f60a1",
+    "date": "2026-10-08",
+    "format": "tf",
+    "question": "True or False: Rafflesia, the plant famous for producing the world's largest single flower, feeds itself through an extensive network of roots.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Rafflesia",
+    "articleURL": "https://en.wikipedia.org/wiki/Rafflesia",
+    "anchorText": "The plant has no stems, leaves or roots",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/33/Rafflesia_arnoldii_Bengkulu_01.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "686242fe-2642-49e4-9b45-8f0bc33a71c3",
+    "date": "2026-10-08",
+    "format": "tf",
+    "question": "True or False: In some bamboo species, every plant descended from the same stock flowers at the very same time \u2014 wherever in the world it grows \u2014 and then dies.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Bamboo",
+    "articleURL": "https://en.wikipedia.org/wiki/Bamboo",
+    "anchorText": "all plants of the same stock flower at the same time, regardless of differences in geographic locations",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bamboo_forest.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "dfc20264-bf18-4a3f-a214-f9c751193368",
+    "date": "2026-10-08",
+    "format": "tf",
+    "question": "True or False: Living up to its name, the vampire squid feeds by drinking the blood of other deep-sea creatures.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Vampire squid",
+    "articleURL": "https://en.wikipedia.org/wiki/Vampire_squid",
+    "anchorText": "it feeds on detritus, not blood",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Vampyroteuthis_illustration.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
