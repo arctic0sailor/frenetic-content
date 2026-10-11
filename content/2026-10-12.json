@@ -1,0 +1,82 @@
+[
+  {
+    "id": "9fdaedcf-d40f-40b3-abd5-813d1b6a999e",
+    "date": "2026-10-12",
+    "format": "tf",
+    "question": "If you treat the wind blowing across Earth's surface as a smooth field of arrows, a theorem of topology guarantees that at any given moment there is always at least one spot on the planet where the horizontal wind speed is exactly zero.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Hairy ball theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Hairy_ball_theorem",
+    "anchorText": "there must be a point on the shell where the wind is not moving horizontally",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hairy_ball.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "33781e82-b8dc-4c67-8b95-757edd66831a",
+    "date": "2026-10-12",
+    "format": "tf",
+    "question": "There exists an infinite list of numbers whose sum can be made to equal any value you choose \u2014 0, or 100, or pi \u2014 simply by adding the very same terms in a different order.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Riemann series theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Riemann_series_theorem",
+    "anchorText": "its terms can be arranged in a permutation so that the new series converges to an arbitrary real number",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5011dcc1-e13a-4a1d-8c94-d6ca43c6443a",
+    "date": "2026-10-12",
+    "format": "tf",
+    "question": "In advanced scurvy (severe vitamin C deficiency), bones that had fully healed years earlier can break apart again at the old fracture site.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Scurvy",
+    "articleURL": "https://en.wikipedia.org/wiki/Scurvy",
+    "anchorText": "Teeth loosen, bones break more easily, and once-healed breaks may recur",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/88/Scorbutic_gums.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ab6163fa-181e-4859-b7de-92e893abbfde",
+    "date": "2026-10-12",
+    "format": "tf",
+    "question": "In a clinical trial of critically ill patients, the group whose fevers were aggressively brought down with medication ended up dying more often than those whose fevers were left largely untreated.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Fever",
+    "articleURL": "https://en.wikipedia.org/wiki/Fever",
+    "anchorText": "one trial was terminated early because patients receiving aggressive fever treatment were dying more often",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/13/Symptoms-fever.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6fa32625-4ee7-48b6-b2e4-5d4abf18cab2",
+    "date": "2026-10-12",
+    "format": "tf",
+    "question": "Phantom limb sensations \u2014 vividly feeling a limb that isn't there \u2014 can occur only in people who once had the limb and then lost it to amputation or injury.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Phantom limb",
+    "articleURL": "https://en.wikipedia.org/wiki/Phantom_limb",
+    "anchorText": "many people born without limbs also experienced phantom limbs",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
