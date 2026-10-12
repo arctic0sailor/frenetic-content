@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2d362fc8-b95d-43f8-95bb-70021abf7e05",
+    "date": "2026-10-13",
+    "format": "two",
+    "question": "Mathematicians have a function that is continuous at every irrational number yet discontinuous at every rational number. Could there be a function with the roles swapped \u2014 continuous at every rational, discontinuous at every irrational?",
+    "choices": [
+      "Yes \u2014 just swap the construction around",
+      "No \u2014 such a function is provably impossible"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Thomae's function",
+    "articleURL": "https://en.wikipedia.org/wiki/Thomae's_function",
+    "anchorText": "continuous on the rational numbers and discontinuous on the irrational numbers. This turns out to be impossible.",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/15/Thomae_function_%280%2C1%29.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6aaa31d1-c464-4085-b4d3-81bccc6e98eb",
+    "date": "2026-10-13",
+    "format": "tf",
+    "question": "You can bore a straight tunnel through a solid wooden cube wide enough to pass a second cube of the very same size completely through it \u2014 while the first cube stays in one piece.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Prince Rupert's cube",
+    "articleURL": "https://en.wikipedia.org/wiki/Prince_Rupert's_cube",
+    "anchorText": "the largest cube that can pass through a hole cut through a unit cube",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Prince_Ruperts_cube.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c78989ba-a3e9-4dc4-8e29-124cdcc24eef",
+    "date": "2026-10-13",
+    "format": "tf",
+    "question": "Decades after a pregnancy, a mother's body can still carry living cells that originated from her child \u2014 and such cells have even been found in mothers' brains.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Microchimerism",
+    "articleURL": "https://en.wikipedia.org/wiki/Microchimerism",
+    "anchorText": "Fetal cells have been documented to persist and multiply in the mother for several decades",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Materno-fetal_microchimerism.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "91d739b2-9562-4a5d-a2cc-5ac8f21680f6",
+    "date": "2026-10-13",
+    "format": "tf",
+    "question": "Heavy water (D\u2082O) is chemically almost identical to ordinary water, but to humans it actually tastes sweet.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Heavy water",
+    "articleURL": "https://en.wikipedia.org/wiki/Heavy_water",
+    "anchorText": "heavy water tastes slightly sweet to humans",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Heavy-water-3D-vdW.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "118d019e-e1a4-4d1e-baba-4d32862beb77",
+    "date": "2026-10-13",
+    "format": "two",
+    "question": "Hydrofluoric acid is infamous for dissolving glass and being horrifically dangerous to the body, while hydrochloric acid is the same stuff found in your own stomach. Chemically, which of the two is classified as a weak acid?",
+    "choices": [
+      "Hydrochloric acid",
+      "Hydrofluoric acid"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Hydrofluoric acid",
+    "articleURL": "https://en.wikipedia.org/wiki/Hydrofluoric_acid",
+    "anchorText": "hydrogen fluoride is only a weak acid in dilute aqueous solution",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Hydrogen_fluoride.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
