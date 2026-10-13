@@ -1,0 +1,38 @@
+[
+  {
+    "id": "978123f8-b3f6-4631-95a4-a027162583aa",
+    "date": "2026-10-14",
+    "format": "four",
+    "question": "During WWII, Allied intelligence estimated Germany was producing about 1,400 tanks a month. Postwar German records revealed the true figure. About how many tanks a month was Germany really building?",
+    "choices": [
+      "About 245",
+      "About 600",
+      "About 1,400",
+      "About 2,500"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "German tank problem",
+    "articleURL": "https://en.wikipedia.org/wiki/German_tank_problem",
+    "anchorText": "showed the actual number to be 245",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Bundesarchiv_Bild_101I-635-3966-27%2C_Panzerfabrik_in_Deutschland.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "db30dead-6f22-47a6-a584-fc427d80a723",
+    "date": "2026-10-14",
+    "format": "four",
+    "question": "A hagfish can produce so much slime it risks clogging its own gills. How does it clear the slime off its body?",
+    "choices": [
+      "It thrashes and shakes the slime off",
+      "It secretes an enzyme that dissolves the slime",
+      "It ties itself in a knot and slides it off",
+      "It scrapes against rocks on the seafloor"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Hagfish",
+    "articleURL": "https://en.wikipedia.org/wiki/Hagfish",
+    "anchorText": "they can tie themselves in an overhand knot",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/60/Purple_hagfish_on_seafloor_%28OOI_237%29_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
