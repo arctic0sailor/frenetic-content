@@ -1,0 +1,104 @@
+[
+  {
+    "id": "906d466b-9975-4f6e-9813-01620ab1aec1",
+    "date": "2026-10-16",
+    "format": "four",
+    "question": "Saturn's moon Hyperion looks like a solid lump of rock and ice. Roughly how much of its interior is actually empty space?",
+    "choices": [
+      "About 2%",
+      "About 15%",
+      "About 40%",
+      "About 70%"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Hyperion (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Hyperion_(moon)",
+    "anchorText": "about 40 percent of it is empty space",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hyperion_true.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bd813e33-3820-4480-8f94-96b2fbd8dc11",
+    "date": "2026-10-16",
+    "format": "four",
+    "question": "Neptune was discovered in 1846, about 180 years ago. How many times has it orbited the Sun since then?",
+    "choices": [
+      "Once",
+      "Twice",
+      "About 7 times",
+      "About 180 times"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Neptune",
+    "articleURL": "https://en.wikipedia.org/wiki/Neptune",
+    "anchorText": "Neptune completed its first full barycentric orbit since its discovery in 1846",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Neptune_Voyager2_color_calibrated.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "32ee851b-e748-4197-a9aa-fe77812393db",
+    "date": "2026-10-16",
+    "format": "two",
+    "question": "Which is more massive: Pluto, or the dwarf planet Eris?",
+    "choices": [
+      "Eris",
+      "Pluto"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Eris (dwarf planet)",
+    "articleURL": "https://en.wikipedia.org/wiki/Eris_(dwarf_planet)",
+    "anchorText": "27% greater than that of Pluto",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/63/Eris_and_moon_Dysnomia_JWST_NIRCam.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "b31ed07a-4734-4180-914d-07bdab31db7c",
+    "date": "2026-10-16",
+    "format": "tf",
+    "question": "The Sun is over a thousand times more massive than Jupiter, yet the point the two of them orbit around lies outside the Sun's surface, not deep inside it.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Barycenter (astronomy)",
+    "articleURL": "https://en.wikipedia.org/wiki/Barycenter_(astronomy)",
+    "anchorText": "their barycenter is slightly outside the Sun",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Orbit5.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "83df81b2-454e-4601-8dea-1000e38eba08",
+    "date": "2026-10-16",
+    "format": "tf",
+    "question": "Like most small marsupials, male antechinuses live for several years and breed over many seasons.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Antechinus",
+    "articleURL": "https://en.wikipedia.org/wiki/Antechinus",
+    "anchorText": "The males experience mass mortality after mating",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/83/Agile_Antechinus_%28Antechinus_agilis%29_on_cloth%2C_close-up_from_front.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "582dafe7-af88-4fdd-9dd2-4455b5fa5f8c",
+    "date": "2026-10-16",
+    "format": "four",
+    "question": "A radiation dose of about 5 grays kills a human. About what dose can the bacterium Deinococcus radiodurans survive with almost no harm?",
+    "choices": [
+      "About 15 grays",
+      "About 150 grays",
+      "About 5,000 grays",
+      "About 500,000 grays"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Deinococcus radiodurans",
+    "articleURL": "https://en.wikipedia.org/wiki/Deinococcus_radiodurans",
+    "anchorText": "withstanding an acute dose of 5,000 grays",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Deinococcus_radiodurans.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
