@@ -1,0 +1,68 @@
+[
+  {
+    "id": "c37b786a-05f7-4e4f-882e-b70213a9d280",
+    "date": "2026-10-17",
+    "format": "tf",
+    "question": "Triton, the largest moon of Neptune, orbits the planet backwards \u2014 in the opposite direction to Neptune's own rotation.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Triton (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Triton_(moon)",
+    "anchorText": "Triton orbits Neptune in a retrograde orbit",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/98/Triton-usgs23-with-frame.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8769ec7d-4ae7-4161-b41c-5b56696fd747",
+    "date": "2026-10-17",
+    "format": "four",
+    "question": "Which animal is the fastest-eating mammal, able to find and swallow a piece of food in about a quarter of a second?",
+    "choices": [
+      "Cheetah",
+      "Star-nosed mole",
+      "Common shrew",
+      "Stoat"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Star-nosed mole",
+    "articleURL": "https://en.wikipedia.org/wiki/Star-nosed_mole",
+    "anchorText": "the title of fastest-eating mammal, taking as little as 120 milliseconds",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Condylura.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c28040f8-e638-4123-a89d-898ab611cea1",
+    "date": "2026-10-17",
+    "format": "two",
+    "question": "Over its entire life \u2014 which can span more than a thousand years \u2014 how many leaves does the welwitschia plant grow?",
+    "choices": [
+      "A fresh pair every year",
+      "Just two, for its whole life"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Welwitschia",
+    "articleURL": "https://en.wikipedia.org/wiki/Welwitschia",
+    "anchorText": "The plant has only two leaves that grow out of a large woody stem",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Welwitschia_mirabilis%282%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "98b349bc-5e76-48d6-917e-94ebecf7288a",
+    "date": "2026-10-17",
+    "format": "tf",
+    "question": "Like the Panama Canal, the Suez Canal uses a series of locks to raise and lower ships between the two seas it connects.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Suez Canal",
+    "articleURL": "https://en.wikipedia.org/wiki/Suez_Canal",
+    "anchorText": "no locks, with seawater flowing freely through it",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Iss016e019375.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
