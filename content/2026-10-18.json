@@ -1,0 +1,86 @@
+[
+  {
+    "id": "6dd1aee4-121f-49b7-833a-2b87d14549e9",
+    "date": "2026-10-18",
+    "format": "tf",
+    "question": "A gene essential for building the human placenta was originally acquired from an ancient virus.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Syncytin-1",
+    "articleURL": "https://en.wikipedia.org/wiki/Syncytin-1",
+    "anchorText": "an endogenous retroviral element that is the remnant of an ancient retroviral infection",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Ideogram_human_chromosome_7.svg/500px-Ideogram_human_chromosome_7.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "1816327e-ce5a-4cd3-9697-64d8a237520e",
+    "date": "2026-10-18",
+    "format": "tf",
+    "question": "Steel and concrete expand at very different rates when heated, and this mismatch is a major cause of cracking in reinforced concrete.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Reinforced concrete",
+    "articleURL": "https://en.wikipedia.org/wiki/Reinforced_concrete",
+    "anchorText": "The coefficient of thermal expansion of concrete is similar to that of steel",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Talbruecke-Bruenn_2005-08-04.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "24bf45f1-8329-4a43-af66-51b72563bd95",
+    "date": "2026-10-18",
+    "format": "four",
+    "question": "Those small dumbbell-shaped weights clamped onto high-voltage power lines a short way from each tower are there mainly to:",
+    "choices": [
+      "Damp out wind-induced vibration of the line",
+      "Weigh the cable down to keep it taut",
+      "Space bundled conductors apart",
+      "Act as aircraft-warning markers"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Stockbridge damper",
+    "articleURL": "https://en.wikipedia.org/wiki/Stockbridge_damper",
+    "anchorText": "a tuned mass damper used to suppress wind-induced vibrations on slender structures such as overhead power lines",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Morning_Mist_in_Barnsley.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "230c3760-86a5-4d1e-92ee-889fab0b0234",
+    "date": "2026-10-18",
+    "format": "tf",
+    "question": "The de Havilland Comet, the first jet airliner, broke up in mid-air from metal fatigue. The cracks originated at the corners of its square passenger windows.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "De Havilland Comet",
+    "articleURL": "https://en.wikipedia.org/wiki/De_Havilland_Comet",
+    "anchorText": "The shape of the passenger windows was not indicated in any failure mode",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/BEA_de_Havilland_DH-106_Comet_4B_Berlin.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4aed93d2-4a0a-498e-bdb7-f265ac33ed7d",
+    "date": "2026-10-18",
+    "format": "four",
+    "question": "The northernmost point of the contiguous United States \u2014 the only piece of the lower 48 above the 49th parallel \u2014 lies in which state?",
+    "choices": [
+      "Maine",
+      "Washington",
+      "Montana",
+      "Minnesota"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Northwest Angle",
+    "articleURL": "https://en.wikipedia.org/wiki/Northwest_Angle",
+    "anchorText": "the only place in the contiguous United States north of the 49th parallel",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/e4/NORTHWEST_Angle.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
