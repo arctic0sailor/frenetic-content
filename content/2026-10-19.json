@@ -1,0 +1,38 @@
+[
+  {
+    "id": "27d624e6-7552-4c3f-8a32-e1e07c5139af",
+    "date": "2026-10-19",
+    "format": "four",
+    "question": "On its opening day in 2000, London's Millennium Bridge swayed so alarmingly it was nicknamed the 'Wobbly Bridge.' What made the wobble feed on itself?",
+    "choices": [
+      "Gusts of wind struck the flat deck at just the wrong rhythm",
+      "The steel cables stretched unevenly in the summer heat",
+      "Ordinary pedestrians unconsciously fell into step with the sway, amplifying it",
+      "Soldiers marching across in lockstep hit the bridge's natural frequency"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Millennium Bridge, London",
+    "articleURL": "https://en.wikipedia.org/wiki/Millennium_Bridge,_London",
+    "anchorText": "an unconscious tendency to match their footsteps to the sway",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/38/Millenium_bridge_2015.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ab42e387-9da0-4cc2-8106-37267a767886",
+    "date": "2026-10-19",
+    "format": "four",
+    "question": "Not one bridge crosses the main stem of the Amazon, among the mightiest rivers on Earth. Why not?",
+    "choices": [
+      "It runs mostly through roadless rainforest, so there is little need for one",
+      "It is simply too wide for any bridge to span",
+      "Treaties among the Amazon-basin nations forbid building across it",
+      "Its bed is too soft and shifting to anchor bridge piers"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Amazon River",
+    "articleURL": "https://en.wikipedia.org/wiki/Amazon_River",
+    "anchorText": "This is not because the river would be too wide to bridge",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Amazon_River_ESA387332.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
