@@ -1,0 +1,34 @@
+[
+  {
+    "id": "36b7ed81-7d91-445c-88a2-8ad7e2445b5e",
+    "date": "2026-10-21",
+    "format": "tf",
+    "question": "True or false: take any triangle, build an equilateral triangle outward on each of its three sides, and mark each one's centre \u2014 those three centres always form a perfect equilateral triangle.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Napoleon's theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Napoleon's_theorem",
+    "anchorText": "the lines connecting the centres of those equilateral triangles themselves form an equilateral triangle",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/66/Napoleon%27s_theorem.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "29ad24d2-2c2c-47c0-9c24-34e8566efe6a",
+    "date": "2026-10-21",
+    "format": "tf",
+    "question": "True or false: inside an equilateral triangle, wherever you place a point, the distances from it to the three sides always add up to the same total.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Viviani's theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Viviani's_theorem",
+    "anchorText": "the sum of the shortest distances from any interior point to the sides of an equilateral triangle",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Viviani_Theorem.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
