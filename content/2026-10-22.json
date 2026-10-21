@@ -1,0 +1,68 @@
+[
+  {
+    "id": "87bc97ba-0ead-4421-bf57-be1de0d0ce2e",
+    "date": "2026-10-22",
+    "format": "tf",
+    "question": "True or false: take two identical sheets of grid paper, crumple one into a ball and drop it onto the flat one (keeping it within the edges) \u2014 at least one point of the crumpled sheet must end up lying exactly above its matching point on the flat sheet.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Brouwer fixed-point theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem",
+    "anchorText": "at least one point of the crumpled sheet that lies directly above its corresponding point",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "29fa6003-23b9-4e6b-ba32-578ef26cba27",
+    "date": "2026-10-22",
+    "format": "tf",
+    "question": "True or false: no matter how the two slices of bread and the slice of ham are flung around a room, a single straight flat cut can always slice all three of them exactly in half at once.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Ham sandwich theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Ham_sandwich_theorem",
+    "anchorText": "This is possible even if the objects overlap",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "92908be0-e36e-470d-a8cf-bcd74483722f",
+    "date": "2026-10-22",
+    "format": "two",
+    "question": "Firefighters sometimes smother a chemical fire with sand. If you poured sand onto burning chlorine trifluoride, what would happen?",
+    "choices": [
+      "The sand would smother the flames",
+      "The sand itself would ignite"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Chlorine trifluoride",
+    "articleURL": "https://en.wikipedia.org/wiki/Chlorine_trifluoride",
+    "anchorText": "It ignites sand, asbestos, glass, and even ashes of substances that have already burned in oxygen",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Chlorine_trifluoride.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "089af1f9-d65c-4282-a936-05c72d787366",
+    "date": "2026-10-22",
+    "format": "four",
+    "question": "Because of its extreme (~98\u00b0) axial tilt, each pole of the planet Uranus experiences roughly:",
+    "choices": [
+      "A 17-hour cycle of day and night, like a fast Earth",
+      "Six months of daylight, then six months of darkness",
+      "About 42 years of daylight, then about 42 years of night",
+      "A perpetual dim twilight across the whole planet"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Uranus",
+    "articleURL": "https://en.wikipedia.org/wiki/Uranus",
+    "anchorText": "its poles get around 42 years of continuous sunlight, followed by 42 years of continuous darkness",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uranus_Voyager2_color_calibrated.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
