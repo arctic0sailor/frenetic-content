@@ -1,0 +1,84 @@
+[
+  {
+    "id": "20ebd0e5-66ef-46dd-97ba-efe1a515db55",
+    "date": "2026-10-23",
+    "format": "tf",
+    "question": "True or false: in mathematics, a hollow sphere can be turned completely inside out \u2014 allowed to pass through itself, but without tearing, cutting, or making a single crease.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Sphere eversion",
+    "articleURL": "https://en.wikipedia.org/wiki/Sphere_eversion",
+    "anchorText": "It is possible to smoothly and continuously turn a sphere inside out",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/99/MorinSurfaceFromTheTop.PNG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fc351db3-3f8c-4537-9bc2-20a87614863b",
+    "date": "2026-10-23",
+    "format": "tf",
+    "question": "True or false: a needle lying flat on a table can be turned so that it points in every direction in turn \u2014 a full rotation \u2014 while sweeping out a total area as close to zero as you wish.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Kakeya set",
+    "articleURL": "https://en.wikipedia.org/wiki/Kakeya_set",
+    "anchorText": "Kakeya needle sets in the plane of arbitrarily small positive measure",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Kakeya_needle.gif",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "402c91d5-6c09-4de1-96cd-d81db74cb41f",
+    "date": "2026-10-23",
+    "format": "tf",
+    "question": "True or false: there exists a single continuous curve \u2014 a one-dimensional line, drawn without lifting the pen \u2014 that passes through every single point inside a square, leaving no gap anywhere.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Space-filling curve",
+    "articleURL": "https://en.wikipedia.org/wiki/Space-filling_curve",
+    "anchorText": "passes through every point of the unit square",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d61e39b7-2791-4bb5-acd4-96b3ee440148",
+    "date": "2026-10-23",
+    "format": "two",
+    "question": "A new engine design makes burning coal far more efficient, so each machine needs less coal to do the same work. Historically, what tends to happen to a society's total coal consumption?",
+    "choices": [
+      "It rises",
+      "It falls"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Jevons paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Jevons_paradox",
+    "anchorText": "lead to a rise, rather than a fall, in total consumption",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8d98ab3a-2831-42c9-abe7-495cd8545be0",
+    "date": "2026-10-23",
+    "format": "four",
+    "question": "In the 1690s the independent Kingdom of Scotland poured perhaps a fifth of its entire wealth into one grand venture whose catastrophic failure helped push it into union with England in 1707. What was the venture?",
+    "choices": [
+      "Founding a Scottish colony in Panama",
+      "Waging a war against the Dutch Republic",
+      "Cutting a great canal across the Highlands",
+      "Launching a national bank that then collapsed"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Darien scheme",
+    "articleURL": "https://en.wikipedia.org/wiki/Darien_scheme",
+    "anchorText": "a colony in the Dari\u00e9n Gap on the territory of present-day Panama",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_the_Company_of_Scotland_Trading_to_Africa_and_the_Indies.svg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
