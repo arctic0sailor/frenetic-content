@@ -1,0 +1,34 @@
+[
+  {
+    "id": "4d91d173-f7eb-4443-ac12-1c5dfe7fadb2",
+    "date": "2026-10-25",
+    "format": "tf",
+    "question": "True or false: in a handful of animals \u2014 including dogs and Tasmanian devils \u2014 cancer itself is contagious, passing directly from one individual to another as living tumour cells.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Clonally transmissible cancer",
+    "articleURL": "https://en.wikipedia.org/wiki/Clonally_transmissible_cancer",
+    "anchorText": "a cancer cell or cluster of cancer cells that can be transferred between individuals",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f3e37bf7-8747-4b0b-857e-b08c25886b6d",
+    "date": "2026-10-25",
+    "format": "tf",
+    "question": "True or false: the ghostly white 'ghost pipe' that pushes up through the forest floor is a kind of fungus.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Monotropa uniflora",
+    "articleURL": "https://en.wikipedia.org/wiki/Monotropa_uniflora",
+    "anchorText": "non-photosynthesizing, perennial flowering plant native to North America",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Monotropa_uniflora_in_Penwood_State_Park_3%2C_2009-07-03.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
