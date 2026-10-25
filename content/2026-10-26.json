@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0c815964-f37c-4468-b6f0-83dc0bc875f7",
+    "date": "2026-10-26",
+    "format": "tf",
+    "question": "True or false: Mimas, the small Saturnian moon famous for looking like the Death Star, is thought to conceal a liquid water ocean beneath its battered, cratered surface.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Mimas",
+    "articleURL": "https://en.wikipedia.org/wiki/Mimas",
+    "anchorText": "researchers have found that it has a water ocean beneath",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Mimas_Masked.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
