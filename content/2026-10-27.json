@@ -1,0 +1,90 @@
+[
+  {
+    "id": "a62c6193-92d8-4a18-af59-4dd79921d62c",
+    "date": "2026-10-27",
+    "format": "tf",
+    "question": "True or false: a small reef fish \u2014 the cleaner wrasse \u2014 has reportedly passed a version of the mirror self-recognition test, long thought to be reserved for a few big-brained mammals and birds.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Bluestreak cleaner wrasse",
+    "articleURL": "https://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse",
+    "anchorText": "notable for having potentially passed the mirror test",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/06/L%C3%A1brido_limpiador_com%C3%BAn_%28Labroides_dimidiatus%29%2C_mar_Rojo%2C_Egipto%2C_2023-04-17%2C_DD_90.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "57879b65-3e55-4c99-9287-33e53c27bf98",
+    "date": "2026-10-27",
+    "format": "four",
+    "question": "When the 'corpse flower' (titan arum) blooms, it does something unusual to broadcast its stench of rotting flesh far and wide. What?",
+    "choices": [
+      "It sprays a fine mist into the air",
+      "It heats its central spike up to roughly human body temperature",
+      "It rapidly fans its petals back and forth",
+      "It glows faintly to lure night insects"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Amorphophallus titanum",
+    "articleURL": "https://en.wikipedia.org/wiki/Amorphophallus_titanum",
+    "anchorText": "the spadix heats up to 37 \u00b0C",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Amorphophallus_titanum_%28corpse_flower%29_-_2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6844370e-40fe-447e-9fd5-06ddf92781bb",
+    "date": "2026-10-27",
+    "format": "four",
+    "question": "For each unit of electrical energy it consumes, how much heat can a well-designed heat pump deliver into a building?",
+    "choices": [
+      "Always less heat than the electricity it uses",
+      "About the same amount of heat",
+      "Exactly double, by design",
+      "Several times more heat than the electricity it uses"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Heat pump",
+    "articleURL": "https://en.wikipedia.org/wiki/Heat_pump",
+    "anchorText": "they can transfer 1 to 4.5 kWh of thermal energy into a building",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Heat_pump_unit.webp",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5bd0720f-9ec7-420b-a21a-910bc5fa5932",
+    "date": "2026-10-27",
+    "format": "four",
+    "question": "Ekranoplans \u2014 the huge Soviet craft that flew just above the water on short, stubby wings \u2014 are officially classified as what?",
+    "choices": [
+      "Aircraft",
+      "Ships",
+      "Hovercraft",
+      "Submarines"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Ground-effect vehicle",
+    "articleURL": "https://en.wikipedia.org/wiki/Ground-effect_vehicle",
+    "anchorText": "the IMO classified the WISE or GEV under the category of ships",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/75/Ekranoplan_A-90_Orlyonok_-_edit.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "aa403095-f443-4730-91ca-e6afd0ede44a",
+    "date": "2026-10-27",
+    "format": "four",
+    "question": "Much of the Trans-Alaska Pipeline runs above the ground on supports instead of being buried. Why?",
+    "choices": [
+      "Because the warm oil inside would melt the permafrost and wreck a buried pipe",
+      "To let migrating caribou herds pass underneath it",
+      "So that any leaks could be spotted and repaired quickly",
+      "Because the frozen ground was too hard to excavate"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Trans-Alaska Pipeline System",
+    "articleURL": "https://en.wikipedia.org/wiki/Trans-Alaska_Pipeline_System",
+    "anchorText": "the hot oil conveyed by the pipeline would melt the underlying permafrost",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Trans-Alaska_Pipeline_System_Luca_Galuzzi_2005.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
