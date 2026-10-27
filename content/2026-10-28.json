@@ -1,0 +1,18 @@
+[
+  {
+    "id": "45e5d95f-0068-400b-a63e-efcb5087523b",
+    "date": "2026-10-28",
+    "format": "two",
+    "question": "Whose lowest point sits at a higher elevation \u2014 i.e., which of these countries has the highest 'low point' of anywhere in its territory?",
+    "choices": [
+      "Nepal",
+      "Lesotho"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Lesotho",
+    "articleURL": "https://en.wikipedia.org/wiki/Lesotho",
+    "anchorText": "the highest lowest point of any country in the world",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
