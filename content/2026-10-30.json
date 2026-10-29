@@ -1,0 +1,38 @@
+[
+  {
+    "id": "40c9584a-750d-43c4-bd67-139af4faf9af",
+    "date": "2026-10-30",
+    "format": "four",
+    "question": "A person suffering from Fregoli delusion is firmly convinced of what?",
+    "choices": [
+      "That various different people they meet are really one persecutor in disguise",
+      "That a close relative has been secretly replaced by an identical impostor",
+      "That they themselves are already dead",
+      "That their own reflection in the mirror is a stranger"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Fregoli delusion",
+    "articleURL": "https://en.wikipedia.org/wiki/Fregoli_delusion",
+    "anchorText": "different people are in fact a single person who changes appearance or is in disguise",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d2f1e3da-f7ad-4919-8560-c9f19dd783b7",
+    "date": "2026-10-30",
+    "format": "four",
+    "question": "Ordinary 3-D space has exactly five regular (Platonic) solids. How many regular convex shapes exist in spaces of five dimensions or more?",
+    "choices": [
+      "Exactly three, in every dimension above four",
+      "Exactly six, as there are in four dimensions",
+      "More and more as the dimension increases",
+      "Infinitely many, as with polygons in the plane"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Regular polytope",
+    "articleURL": "https://en.wikipedia.org/wiki/Regular_polytope",
+    "anchorText": "the simplex, hypercube, and orthoplex are the only regular polytopes",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Regular_pentagon.svg/500px-Regular_pentagon.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
