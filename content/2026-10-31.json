@@ -1,0 +1,154 @@
+[
+  {
+    "id": "6cfb7981-24f7-4ace-9899-57f3516dd667",
+    "date": "2026-10-31",
+    "format": "four",
+    "question": "A square is easy to cut into 2, 4, 6 \u2014 any even number \u2014 of triangles of equal area. Into how many triangles of equal area can a square be cut if the number must be odd?",
+    "choices": [
+      "Any odd number of three or more works",
+      "No odd number is possible at all",
+      "Only odd numbers that are perfect squares",
+      "Only odd numbers above a certain minimum size"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Monsky's theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Monsky%27s_theorem",
+    "anchorText": "it is not possible to dissect a square into an odd number of triangles of equal area",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d11eff25-a9d0-4c3f-9370-f653c8658f36",
+    "date": "2026-10-31",
+    "format": "tf",
+    "question": "'Squaring the circle' is the byword for an impossible task. Yet it has been mathematically proven that you CAN cut a disk into finitely many pieces and rearrange them into a square of exactly equal area.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Tarski's circle-squaring problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Tarski%27s_circle-squaring_problem",
+    "anchorText": "It is possible, using pieces that are Borel sets",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "b249b1d9-da1f-4073-98da-26d70834b069",
+    "date": "2026-10-31",
+    "format": "tf",
+    "question": "The sum of the reciprocals of all the prime numbers (1/2 + 1/3 + 1/5 + 1/7 + ...) grows forever without bound. The same is true if you add up the reciprocals of only the twin primes.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Brun's theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Brun%27s_theorem",
+    "anchorText": "the sum of the reciprocals of the twin primes converges to a finite value",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Bruns-constant.svg/330px-Bruns-constant.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "dc207cbb-45b4-4e2f-afc8-df0c7959c5f3",
+    "date": "2026-10-31",
+    "format": "two",
+    "question": "Arrange 12 equal balls so each touches a central ball of the same size and you'll see sizeable gaps left over. Can a 13th be squeezed in to touch the center too?",
+    "choices": [
+      "Yes \u2014 there is clearly room for one more",
+      "No \u2014 twelve is the proven maximum"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Kissing number",
+    "articleURL": "https://en.wikipedia.org/wiki/Kissing_number",
+    "anchorText": "Newton correctly thought that the limit was 12; Gregory thought that a 13th could fit",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ebaae4ba-c712-4b15-8a90-622dfb6250db",
+    "date": "2026-10-31",
+    "format": "tf",
+    "question": "There is a function that is continuous (no jumps) everywhere and has a slope of exactly zero at almost every single point \u2014 and yet it still climbs steadily from 0 up to 1.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Cantor function",
+    "articleURL": "https://en.wikipedia.org/wiki/Cantor_function",
+    "anchorText": "continuous everywhere and has zero derivative almost everywhere",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/CantorEscalier-2.svg/330px-CantorEscalier-2.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a4f75ec4-4411-4c19-b386-4463a20ecbc4",
+    "date": "2026-10-31",
+    "format": "four",
+    "question": "To stop otherwise-uncontrollable epileptic seizures in a child, neurosurgeons sometimes resort to doing what?",
+    "choices": [
+      "Removing or disconnecting an entire half of the brain",
+      "Cutting the nerve pathways to both ears",
+      "Replacing part of the skull with a metal plate",
+      "Removing both of the temporal lobes"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Hemispherectomy",
+    "articleURL": "https://en.wikipedia.org/wiki/Hemispherectomy",
+    "anchorText": "an unhealthy hemisphere of the brain is disconnected or removed",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "9594a913-f537-472d-84e6-12eba7f02905",
+    "date": "2026-10-31",
+    "format": "four",
+    "question": "Competitive breath-hold divers are warned never to hyperventilate (take rapid deep breaths) right before going under. Why is that dangerous?",
+    "choices": [
+      "The forceful breathing can rupture delicate lung tissue",
+      "It delays the urge to breathe, so a diver can black out from low oxygen without warning",
+      "It loads the blood with so much oxygen that it turns toxic",
+      "It brings on a painful squeeze in the sinuses and ears on the way down"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Freediving blackout",
+    "articleURL": "https://en.wikipedia.org/wiki/Freediving_blackout",
+    "anchorText": "hypoxia expedited by hypocapnia caused by voluntary hyperventilation before the dive",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0273fbca-4ef3-4e7c-9492-0425ba6655de",
+    "date": "2026-10-31",
+    "format": "four",
+    "question": "Given a perfect supply of nutrients in a lab dish, how many times can a normal human body cell divide before division stops for good?",
+    "choices": [
+      "Indefinitely \u2014 with nutrients, normal cells are effectively immortal",
+      "About 40 to 60 times, then it stops",
+      "Exactly once, and then it dies",
+      "Several thousand times"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Hayflick limit",
+    "articleURL": "https://en.wikipedia.org/wiki/Hayflick_limit",
+    "anchorText": "will divide between 40 and 60 times in cell culture before entering a senescence phase",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "b3e38b03-e2cf-4d6a-819d-eae864578c38",
+    "date": "2026-10-31",
+    "format": "tf",
+    "question": "People with severe, long-standing dementia sometimes unexpectedly regain clear memory and recognition of loved ones in the days or hours just before they die.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Terminal lucidity",
+    "articleURL": "https://en.wikipedia.org/wiki/Terminal_lucidity",
+    "anchorText": "an unexpected return of mental clarity shortly before death",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/202_300_quijote_cap74.jpg/330px-202_300_quijote_cap74.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
