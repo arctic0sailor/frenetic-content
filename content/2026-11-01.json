@@ -1,0 +1,150 @@
+[
+  {
+    "id": "83e889d0-a823-4848-baaf-d55a6006f648",
+    "date": "2026-11-01",
+    "format": "tf",
+    "question": "The exact size of the largest 'sofa' \u2014 a rigid two-dimensional shape \u2014 that can be slid around a right-angled corner in a hallway of fixed width is a precisely known, long-settled value.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Moving sofa problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Moving_sofa_problem",
+    "anchorText": "The exact value of the sofa constant is an open problem",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Movingsofaproblem.webp/330px-Movingsofaproblem.webp",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "282bbcdb-e56b-4bff-b941-8ee3a932e10c",
+    "date": "2026-11-01",
+    "format": "tf",
+    "question": "It is impossible to tile a square completely with smaller squares if every one of those smaller squares must be a different size.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Squared square",
+    "articleURL": "https://en.wikipedia.org/wiki/Squared_square",
+    "anchorText": "a hard yet solvable problem",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Sprague_squared_square.svg/330px-Sprague_squared_square.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "14368642-511f-49dc-a0a7-01103233877f",
+    "date": "2026-11-01",
+    "format": "tf",
+    "question": "In a penalty shootout, having the teams strictly alternate who shoots first each round (A, B, A, B, ...) is the fairest possible ordering.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Thue\u2013Morse sequence",
+    "articleURL": "https://en.wikipedia.org/wiki/Thue%E2%80%93Morse_sequence",
+    "anchorText": "strict alternation often gives an unfair advantage to one team",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bb584bec-2ff9-401f-856b-2cdf9b52479d",
+    "date": "2026-11-01",
+    "format": "four",
+    "question": "Take a whole number, add it to the number formed by reversing its digits, and repeat (59 \u2192 154 \u2192 605 \u2192 1111). Almost every number quickly becomes a palindrome. For the number 196, what is known to happen?",
+    "choices": [
+      "It reaches a palindrome, but only after about 24 steps",
+      "It has been mathematically proven that 196 never reaches a palindrome",
+      "No palindrome has ever been found, even after the running sum grew past a billion digits",
+      "It reaches a palindrome after a few million steps"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Lychrel number",
+    "articleURL": "https://en.wikipedia.org/wiki/Lychrel_number",
+    "anchorText": "no number in base ten has yet been proven to be Lychrel",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a82f8f7a-2cf4-4620-a32b-e9366abbeca9",
+    "date": "2026-11-01",
+    "format": "two",
+    "question": "Build the 'look-and-say' sequence from 1: each term reads the previous one aloud (one 1 \u2192 '11'; two 1s \u2192 '21'; one 2, one 1 \u2192 '1211'; ...). Continue forever \u2014 does the digit 4 ever appear?",
+    "choices": [
+      "No \u2014 only the digits 1, 2 and 3 ever appear",
+      "Yes \u2014 sooner or later a 4 (and other digits) must show up"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Look-and-say sequence",
+    "articleURL": "https://en.wikipedia.org/wiki/Look-and-say_sequence",
+    "anchorText": "No digits other than 1, 2, and 3 appear in the sequence",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Conway%27s_constant.svg/330px-Conway%27s_constant.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "49b750b2-c9b0-4388-adbf-09d5444b291d",
+    "date": "2026-11-01",
+    "format": "two",
+    "question": "A bar of pure tin is kept in a very cold place (well below freezing) for a long time. What happens to the metal?",
+    "choices": [
+      "It slowly transforms on its own into a crumbly grey powder",
+      "Nothing unusual \u2014 it stays a solid, shiny metal, just cold"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Tin pest",
+    "articleURL": "https://en.wikipedia.org/wiki/Tin_pest",
+    "anchorText": "Tin objects at low temperatures will simply disintegrate",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/PSM_V83_D034_Two_hundred_year_old_medal_affected_by_tin_disease.png/330px-PSM_V83_D034_Two_hundred_year_old_medal_affected_by_tin_disease.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "42f1d20a-2a27-48a9-8487-0d214bbe0eb1",
+    "date": "2026-11-01",
+    "format": "four",
+    "question": "The Milky Way and its neighbouring galaxies are being tugged through space toward a vast concentration of mass called the Great Attractor. Why have astronomers struggled to see what is actually there?",
+    "choices": [
+      "It lies hidden behind the crowded disk of our own Milky Way",
+      "It is a supermassive black hole that swallows all nearby light",
+      "It lies just beyond the edge of the observable universe",
+      "It is pure dark matter, invisible to every kind of instrument"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Great Attractor",
+    "articleURL": "https://en.wikipedia.org/wiki/Great_Attractor",
+    "anchorText": "it lies behind the galactic plane of the Milky Way",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Gran_Atractor.jpg/330px-Gran_Atractor.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a0b17dfb-82f7-4dc1-8dec-22fef855900b",
+    "date": "2026-11-01",
+    "format": "tf",
+    "question": "A tiny independent republic once came into being purely by accident: when the Pope sold land to Florence in 1440, a strip was left out of the treaty by mistake, so its inhabitants declared themselves independent \u2014 and stayed that way for nearly four centuries.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Republic of Cospaia",
+    "articleURL": "https://en.wikipedia.org/wiki/Republic_of_Cospaia",
+    "anchorText": "a small strip of land went unmentioned in the sale treaty",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Flag_of_Cospaia.svg/330px-Flag_of_Cospaia.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "7101e64f-0b89-46ce-b212-18d05a82822f",
+    "date": "2026-11-01",
+    "format": "tf",
+    "question": "The 'Cardiff Giant' \u2014 a 10-foot 'petrified man' dug up in 1869 \u2014 was soon exposed as a carved block of gypsum. Once the fraud came out, public interest collapsed and the giant was quietly discarded.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Cardiff Giant",
+    "articleURL": "https://en.wikipedia.org/wiki/Cardiff_Giant",
+    "anchorText": "Both it and an unauthorized copy made by P. T. Barnum are still being displayed",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Cardiff_giant_exhumed_1869.jpg/330px-Cardiff_giant_exhumed_1869.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
