@@ -1,0 +1,20 @@
+[
+  {
+    "id": "5e2120d7-7d71-4731-a072-02f11b4636f6",
+    "date": "2026-11-02",
+    "format": "four",
+    "question": "The exoplanet TrES-2b stands out among the thousands of worlds discovered so far. What record does it hold?",
+    "choices": [
+      "The most massive planet ever found, far larger than Jupiter",
+      "The darkest known planet, reflecting less light than a lump of coal",
+      "The fastest-spinning planet, with a day under four hours long",
+      "The densest planet known, denser than solid lead"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "TrES-2b",
+    "articleURL": "https://en.wikipedia.org/wiki/TrES-2b",
+    "anchorText": "reflecting less of the light that strikes it than coal",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/TrES-2b.png/330px-TrES-2b.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
