@@ -1,0 +1,52 @@
+[
+  {
+    "id": "3ac41d41-d806-49be-a9b8-8df0f29add49",
+    "date": "2026-11-04",
+    "format": "tf",
+    "question": "A female Komodo dragon kept entirely alone, with no male anywhere near, can still lay eggs that hatch into healthy young \u2014 all of them male.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Komodo dragon",
+    "articleURL": "https://en.wikipedia.org/wiki/Komodo_dragon",
+    "anchorText": "only males are produced by parthenogenesis in this species",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/202306_Varanus_komodoensis.jpg/330px-202306_Varanus_komodoensis.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "2f6f85ed-914d-47d4-8a8a-c35a907399bf",
+    "date": "2026-11-04",
+    "format": "tf",
+    "question": "The bulging bulb jutting from the bow of many big ships, below the waterline, actually lowers drag \u2014 it throws a wave that cancels out the ship's own bow wave.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Bulbous bow",
+    "articleURL": "https://en.wikipedia.org/wiki/Bulbous_bow",
+    "anchorText": "the bulb trough coincides with the crest of the bow wave",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Passenger_ship_Zaandam_in_drydock.jpg/330px-Passenger_ship_Zaandam_in_drydock.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "67da2105-7fcb-4a9f-9ef1-92433cc0b8ee",
+    "date": "2026-11-04",
+    "format": "four",
+    "question": "What stores the most energy, by a wide margin, on the world's electricity grids today?",
+    "choices": [
+      "Vast banks of lithium-ion batteries",
+      "Pumped-storage hydro \u2014 water pumped uphill, then let back down through turbines",
+      "Underground caverns of compressed air",
+      "Arrays of high-speed spinning flywheels"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Pumped-storage hydroelectricity",
+    "articleURL": "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity",
+    "anchorText": "by far the largest-capacity form of grid energy storage available",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Raccoon_Mountain_Pumped-Storage_Plant.svg/330px-Raccoon_Mountain_Pumped-Storage_Plant.svg.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
