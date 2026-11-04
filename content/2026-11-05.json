@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e4ea30d8-42d9-45e5-84f4-7836d14de86e",
+    "date": "2026-11-05",
+    "format": "four",
+    "question": "The Netherlands' great Afsluitdijk dam did something remarkable to the Zuiderzee, a vast arm of the North Sea. It \u2014",
+    "choices": [
+      "drained it completely to create new farmland",
+      "turned it into a freshwater lake",
+      "deepened it into a major shipping harbor",
+      "split it into a chain of small islands"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Afsluitdijk",
+    "articleURL": "https://en.wikipedia.org/wiki/Afsluitdijk",
+    "anchorText": "turning it into the fresh water lake of the IJsselmeer",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Afsluitdijk_kaart_OSM.jpg/330px-Afsluitdijk_kaart_OSM.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
