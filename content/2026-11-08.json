@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bd080566-606a-47d0-b794-7e5764ec832c",
+    "date": "2026-11-08",
+    "format": "four",
+    "question": "Economist Kenneth Arrow won a Nobel Prize for proving what about voting systems with three or more candidates?",
+    "choices": [
+      "A carefully designed ranked voting system can be perfectly fair",
+      "Majority rule always reflects what voters truly want",
+      "Ranked-choice voting completely removes the 'spoiler' effect",
+      "No ranked voting system can rule out the 'spoiler' effect"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Arrow's impossibility theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem",
+    "anchorText": "no ranked voting rule can eliminate the spoiler effect",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d6f3624f-ee1e-4899-9c89-0230533af589",
+    "date": "2026-11-08",
+    "format": "tf",
+    "question": "Being born with your heart on the right and all your major internal organs mirror-reversed almost always causes serious health problems.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Situs inversus",
+    "articleURL": "https://en.wikipedia.org/wiki/Situs_inversus",
+    "anchorText": "have no medical symptoms resulting from the condition",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Situs_inversus_-_Mirrored_heart_and_lungs.jpg/330px-Situs_inversus_-_Mirrored_heart_and_lungs.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cae8c4b3-9f02-4dd5-8ca9-3120560ca42c",
+    "date": "2026-11-08",
+    "format": "four",
+    "question": "Despite its name, the Jerusalem artichoke is actually a variety of which plant?",
+    "choices": [
+      "A true artichoke",
+      "The potato",
+      "Ginger",
+      "The sunflower"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Jerusalem artichoke",
+    "articleURL": "https://en.wikipedia.org/wiki/Jerusalem_artichoke",
+    "anchorText": "is a species of sunflower native to central North America",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Sunroot_top.jpg/330px-Sunroot_top.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
