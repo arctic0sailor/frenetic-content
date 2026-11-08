@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b16b6298-389f-4df1-97f3-1f57d3d300fe",
+    "date": "2026-11-09",
+    "format": "tf",
+    "question": "Adding a brand-new road to a congested city network can actually make everyone's drive slower \u2014 even when no driver is forced onto the new road.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Braess's paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Braess%27s_paradox",
+    "anchorText": "adding one or more roads to a road network can slow down overall traffic flow",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "1e7bd508-8c99-471c-893f-34f3dc1023a1",
+    "date": "2026-11-09",
+    "format": "four",
+    "question": "The 'Alabama paradox,' discovered in the math of U.S. congressional seats, is the unsettling fact that what can happen?",
+    "choices": [
+      "A state's population can grow while its share of seats stays frozen",
+      "Two states with identical populations can receive different seat counts",
+      "Increasing the total number of seats can cause a state to lose a seat",
+      "Adding a new state always forces every other state to gain a seat"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Apportionment paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Apportionment_paradox",
+    "anchorText": "increasing the total number of items would decrease one of the shares",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "834cb2a5-5e13-471b-a3e9-d8a36878489c",
+    "date": "2026-11-09",
+    "format": "four",
+    "question": "There is a famous tongue-in-cheek mathematical 'proof.' What does it claim to establish?",
+    "choices": [
+      "That there are infinitely many prime numbers",
+      "That every single natural number is 'interesting'",
+      "That no number can ever be fully described in words",
+      "That 1 is the only truly interesting number"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Interesting number paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Interesting_number_paradox",
+    "anchorText": "the smallest uninteresting number is itself interesting",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4cb746b3-b87d-4d96-b676-d1657a317aac",
+    "date": "2026-11-09",
+    "format": "four",
+    "question": "Alice in Wonderland syndrome is a real neurological condition in which a person experiences what?",
+    "choices": [
+      "Objects around them seeming far larger, smaller, or more distant than they are",
+      "An overwhelming urge to fall asleep at random moments",
+      "Vivid hallucinations of talking animals and playing cards",
+      "The fixed conviction that they have shrunk to the size of a child"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Alice in Wonderland syndrome",
+    "articleURL": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_syndrome",
+    "anchorText": "experience distortions in their visual perception of objects",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Alice_par_John_Tenniel_11.png/330px-Alice_par_John_Tenniel_11.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0bb1c4e7-c544-4de6-9c6f-8ef806fab46d",
+    "date": "2026-11-09",
+    "format": "four",
+    "question": "Triboluminescence is the surprising phenomenon in which what happens?",
+    "choices": [
+      "Metals briefly turn transparent when rapidly cooled",
+      "Certain materials give off flashes of light when crushed or torn apart",
+      "Water emits a faint glow at the instant it freezes",
+      "Sound is converted directly into light inside a liquid"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Triboluminescence",
+    "articleURL": "https://en.wikipedia.org/wiki/Triboluminescence",
+    "anchorText": "light is generated when a material is mechanically pulled apart",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Triboluminescence_of_L-Nicotin_salicylat.JPG/330px-Triboluminescence_of_L-Nicotin_salicylat.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
