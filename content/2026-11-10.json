@@ -1,0 +1,52 @@
+[
+  {
+    "id": "7fbee20f-894a-468c-b9fd-db123a060d13",
+    "date": "2026-11-10",
+    "format": "tf",
+    "question": "The medieval 'War of the Bucket,' fought between the rival Italian cities of Bologna and Modena, was actually set off when Modenese soldiers stole a wooden bucket from a Bolognese well.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "War of the Bucket",
+    "articleURL": "https://en.wikipedia.org/wiki/War_of_the_Bucket",
+    "anchorText": "war was declared because Modena had captured the Bolognese castle of Monteveglio",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0f085572-fc50-4be9-8923-fdce5d8af896",
+    "date": "2026-11-10",
+    "format": "four",
+    "question": "In 1876, witnesses near Olympia Springs, Kentucky, reported what falling from a clear sky for several minutes \u2014 a sample of which survives preserved in a jar to this day?",
+    "choices": [
+      "Live fish",
+      "Chunks of red meat",
+      "Hundreds of frogs",
+      "Lumps of ice the size of apples"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Kentucky meat shower",
+    "articleURL": "https://en.wikipedia.org/wiki/Kentucky_meat_shower",
+    "anchorText": "what appeared to be chunks of red meat fell from the sky",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0d8412ec-9a85-497a-bd41-04edafc227d0",
+    "date": "2026-11-10",
+    "format": "tf",
+    "question": "There is a precisely defined mathematical function \u2014 describing how long certain simple idealized machines can run before halting \u2014 that grows so fast no computer program could ever calculate all of its values.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Busy beaver",
+    "articleURL": "https://en.wikipedia.org/wiki/Busy_beaver",
+    "anchorText": "it grows asymptotically faster than any computable function",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Busy_Beaver_5_State_2_Color.png/330px-Busy_Beaver_5_State_2_Color.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
