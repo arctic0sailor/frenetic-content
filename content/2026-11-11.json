@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1e9f3f2c-80f0-4bda-9942-c25333a1e8a1",
+    "date": "2026-11-11",
+    "format": "tf",
+    "question": "Besides the Moon, the Earth\u2013Moon system holds faint clouds of dust \u2014 sometimes nicknamed 'ghost moons' \u2014 trapped at stable points along the Moon's orbit.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Kordylewski cloud",
+    "articleURL": "https://en.wikipedia.org/wiki/Kordylewski_cloud",
+    "anchorText": "sparse clouds of cosmic dust that trail ahead and behind the Moon",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/L5KDC20230812_cropped.png/330px-L5KDC20230812_cropped.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d1b81597-e285-4565-8c76-c7732d633fc0",
+    "date": "2026-11-11",
+    "format": "four",
+    "question": "The very first planets ever confirmed outside our Solar System were found orbiting what kind of object?",
+    "choices": [
+      "An ordinary Sun-like star",
+      "A pulsar \u2014 the dense, rapidly spinning corpse of an exploded star",
+      "A young star still wrapped in its planet-forming disk",
+      "A dim brown dwarf, too small to ignite as a true star"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "PSR B1257+12",
+    "articleURL": "https://en.wikipedia.org/wiki/PSR_B1257%2B12",
+    "anchorText": "the first extrasolar planets to be discovered and the first pulsar planets to be discovered",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a5aa9076-cb78-4287-9c61-557810db2840",
+    "date": "2026-11-11",
+    "format": "two",
+    "question": "Physicists predict that black holes slowly 'evaporate' by leaking radiation into space. Of two black holes, which one is hotter and evaporates away faster?",
+    "choices": [
+      "A tiny black hole",
+      "A giant, supermassive black hole"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Hawking radiation",
+    "articleURL": "https://en.wikipedia.org/wiki/Hawking_radiation",
+    "anchorText": "micro black holes are predicted to be larger emitters of radiation than larger black holes",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "2fe33a3f-5825-44ce-9920-1a71749a01dc",
+    "date": "2026-11-11",
+    "format": "tf",
+    "question": "Giant tube worms, which grow up to two metres long around deep-sea hydrothermal vents, feed by filtering tiny drifting plankton out of the water with their feathery red plumes.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Riftia",
+    "articleURL": "https://en.wikipedia.org/wiki/Riftia",
+    "anchorText": "Adult Riftia do not eat and have no mouth, digestive system or anus",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Campagne_HOT_-_Vers_g%C3%A9ants_%28Riftia_pachyptila%29_%28Ifremer_00530-64223_-_52381%29.jpg/330px-Campagne_HOT_-_Vers_g%C3%A9ants_%28Riftia_pachyptila%29_%28Ifremer_00530-64223_-_52381%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3e60aff3-0312-4591-827b-ea090903259d",
+    "date": "2026-11-11",
+    "format": "four",
+    "question": "The 1784 'Kettle War' between the Dutch Republic and the Habsburg (Austrian) Empire got its name for what reason?",
+    "choices": [
+      "The two sides agreed to settle the quarrel over a shared pot of tea",
+      "Soldiers came to blows fighting over a stolen copper kettle",
+      "The signal to attack was a soldier loudly banging on a kettle",
+      "The only shot fired in the entire confrontation struck a soup kettle"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Kettle War",
+    "articleURL": "https://en.wikipedia.org/wiki/Kettle_War",
+    "anchorText": "the only shot fired hit a soup kettle",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Voorval_met_de_keizerlijke_brik_op_de_Schelde%2C_1784_Afbeelding_van_het_beruchte_voorval_met_%27s_lands_schooner_de_Dolphyn%2C_en_de_keizerlyke_brik_de_Louis%2C_in_het_gezicht_van_Lillo._Op_den_VIII_October%2C_RP-P-OB-85.344_%28cropped%29.jpg/330px-thumbnail.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a84082ea-a68e-479d-8bd2-92bee10057c0",
+    "date": "2026-11-11",
+    "format": "tf",
+    "question": "In 1986 a lake in Cameroon suddenly released an enormous, invisible cloud of carbon dioxide that silently suffocated more than 1,700 people and thousands of livestock in the surrounding valleys.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Lake Nyos",
+    "articleURL": "https://en.wikipedia.org/wiki/Lake_Nyos",
+    "anchorText": "the first known large-scale asphyxiation caused by a natural event",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Nyos_Lake.jpg/330px-Nyos_Lake.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
