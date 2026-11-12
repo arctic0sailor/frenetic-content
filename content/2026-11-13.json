@@ -1,0 +1,68 @@
+[
+  {
+    "id": "27db0d17-9b05-482d-9499-02778a388cd3",
+    "date": "2026-11-13",
+    "format": "tf",
+    "question": "Proxima Centauri is the closest star to the Sun. Because it is so near, it is also one of the brightest stars in Earth's night sky.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Proxima Centauri",
+    "articleURL": "https://en.wikipedia.org/wiki/Proxima_Centauri",
+    "anchorText": "too faint to be seen with the naked eye",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg/330px-New_shot_of_Proxima_Centauri%2C_our_nearest_neighbour.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f2a58c46-e9d1-48a2-8029-a8bfe1787723",
+    "date": "2026-11-13",
+    "format": "tf",
+    "question": "Jupiter's Great Red Spot, the largest storm in the Solar System, has been steadily growing larger and more powerful over the past century.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Great Red Spot",
+    "articleURL": "https://en.wikipedia.org/wiki/Great_Red_Spot",
+    "anchorText": "has been observed to be shrinking",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_%2849803032983%29.png/330px-Jupiter_-_Great_Red_Spot_-_PJ7-60_61_62_-_Balanced_%2849803032983%29.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "82bc92ad-ab78-4e02-b17e-2a5327f67199",
+    "date": "2026-11-13",
+    "format": "tf",
+    "question": "The thylacine, or Tasmanian tiger, was a marsupial. As in kangaroos and most other marsupials, only the females had a pouch.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Thylacine",
+    "articleURL": "https://en.wikipedia.org/wiki/Thylacine",
+    "anchorText": "Both sexes had a pouch",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Thylacinus_cropped.png/330px-Thylacinus_cropped.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "83f9e3b5-c32e-4858-977c-2ceba10d85bd",
+    "date": "2026-11-13",
+    "format": "four",
+    "question": "Some of the largest tropical pitcher plants (Nepenthes) have a surprising relationship with tree shrews. What is it?",
+    "choices": [
+      "The plant lures the shrew inside and slowly digests it whole",
+      "The shrew perches on the pitcher and defecates into it; the plant feeds on the droppings",
+      "The shrew stands guard and attacks insects that threaten the plant",
+      "The plant shelters the shrew's young inside sealed, empty pitchers"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Nepenthes",
+    "articleURL": "https://en.wikipedia.org/wiki/Nepenthes",
+    "anchorText": "defecate into the pitchers, providing valuable nutrients",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/N.macrophylla_x_lowii.jpg/330px-N.macrophylla_x_lowii.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
