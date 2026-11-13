@@ -1,0 +1,52 @@
+[
+  {
+    "id": "307388f7-236d-45ea-8c48-2a2df5ae0a08",
+    "date": "2026-11-14",
+    "format": "two",
+    "question": "A kiwi is roughly the size of a domestic chicken. Compared with a chicken's egg, how big is the egg a kiwi lays?",
+    "choices": [
+      "About six times the size of a chicken's egg",
+      "Roughly the same size as a chicken's egg"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Kiwi (bird)",
+    "articleURL": "https://en.wikipedia.org/wiki/Kiwi_(bird)",
+    "anchorText": "about six times the size of a chicken's egg",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/TeTuatahianui.jpg/330px-TeTuatahianui.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d995eb37-ea65-43ff-88aa-a28abf2d7024",
+    "date": "2026-11-14",
+    "format": "four",
+    "question": "What is the tallest structure that human beings have ever moved from one place to another?",
+    "choices": [
+      "An offshore gas platform, towed out into the North Sea",
+      "An Egyptian temple relocated above a rising reservoir",
+      "A cathedral shifted whole to escape a landslide",
+      "A rocket launch tower rolled out to its pad"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Troll A platform",
+    "articleURL": "https://en.wikipedia.org/wiki/Troll_A_platform",
+    "anchorText": "the tallest structure ever moved by mankind",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Troll_A_Platform.jpg/330px-Troll_A_Platform.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0ace3ed0-b68b-49a4-bdc5-a6f7ada0b994",
+    "date": "2026-11-14",
+    "format": "tf",
+    "question": "One railway runs so high across the Tibetan Plateau that its passenger carriages pump in extra oxygen to help travellers breathe.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Qinghai\u2013Tibet railway",
+    "articleURL": "https://en.wikipedia.org/wiki/Qinghai%E2%80%93Tibet_railway",
+    "anchorText": "high-altitude passenger carriages with special enriched-oxygen and UV-protection systems",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Qingzang_railway_Train_01.jpg/330px-Qingzang_railway_Train_01.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
