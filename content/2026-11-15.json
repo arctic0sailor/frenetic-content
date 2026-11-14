@@ -1,0 +1,36 @@
+[
+  {
+    "id": "62c8c907-c286-4727-a193-2e0f08482820",
+    "date": "2026-11-15",
+    "format": "four",
+    "question": "The highest permanent human settlement in the world \u2014 a town where thousands live year-round above 5,000 metres (16,000 ft) \u2014 is found in which country?",
+    "choices": [
+      "Nepal",
+      "Peru",
+      "Bolivia",
+      "China (Tibet)"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "La Rinconada, Peru",
+    "articleURL": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru",
+    "anchorText": "the highest-elevated permanent settlement in the world",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Rinconadapuno.JPG/330px-Rinconadapuno.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "df38d998-944a-4fc7-b8f4-0ae3fb8e1d19",
+    "date": "2026-11-15",
+    "format": "two",
+    "question": "The Roman Aqueduct of Segovia in Spain has stood for roughly two thousand years. What holds its granite blocks together?",
+    "choices": [
+      "Nothing \u2014 the blocks are stacked and held in place without any mortar",
+      "An exceptionally durable Roman concrete mortar"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Aqueduct of Segovia",
+    "articleURL": "https://en.wikipedia.org/wiki/Aqueduct_of_Segovia",
+    "anchorText": "built of unmortared, brick-like granite blocks",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Aqueduct_of_Segovia_08.jpg/330px-Aqueduct_of_Segovia_08.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
