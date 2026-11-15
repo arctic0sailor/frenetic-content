@@ -1,0 +1,34 @@
+[
+  {
+    "id": "faf0fdc9-7d06-47be-a098-f4a399b4efed",
+    "date": "2026-11-16",
+    "format": "tf",
+    "question": "There is a rare medical condition in which microbes in a person's own gut ferment the carbohydrates they eat into alcohol, leaving them intoxicated without having had a single drink.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Auto-brewery syndrome",
+    "articleURL": "https://en.wikipedia.org/wiki/Auto-brewery_syndrome",
+    "anchorText": "causing the effects of intoxication without the ingestion of alcohol",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/2401_Components_of_the_Digestive_System.jpg/330px-2401_Components_of_the_Digestive_System.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "aaff07b2-2d38-4519-8354-18e99adf7356",
+    "date": "2026-11-16",
+    "format": "tf",
+    "question": "In the early 20th century a worldwide epidemic left many of its victims frozen in a statue-like state \u2014 speechless and motionless \u2014 and its cause is still not fully understood.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Encephalitis lethargica",
+    "articleURL": "https://en.wikipedia.org/wiki/Encephalitis_lethargica",
+    "anchorText": "leaving some victims in a statue-like condition, speechless and motionless",
+    "thumbnailURL": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Economo1918h.PNG/330px-Economo1918h.PNG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
