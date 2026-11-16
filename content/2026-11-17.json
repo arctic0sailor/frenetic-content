@@ -1,0 +1,134 @@
+[
+  {
+    "id": "a24b6968-a64c-4236-bed0-a11db154ba7c",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "Take absolutely any triangle, split each of its three angles into three equal parts, and the points where neighbouring trisectors cross will always form a perfect equilateral triangle.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Morley's trisector theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Morley%27s_trisector_theorem",
+    "anchorText": "the three points of intersection of the adjacent angle trisectors form an equilateral triangle",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "e7e9cd6b-4daf-4d26-a506-28e3dc237577",
+    "date": "2026-11-17",
+    "format": "four",
+    "question": "Using only an unmarked straightedge and a compass, a regular polygon with exactly how many sides can be constructed?",
+    "choices": [
+      "11",
+      "13",
+      "17",
+      "19"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Constructible polygon",
+    "articleURL": "https://en.wikipedia.org/wiki/Constructible_polygon",
+    "anchorText": "proved the constructibility of the regular 17-gon",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "42bd9eab-07b2-4068-9d63-a23c27ae67d6",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "The harmonic series 1 + 1/2 + 1/3 + 1/4 + ... adds up to infinity. If you now delete every term whose denominator contains the digit 9, the surviving series still adds up to infinity.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Kempner series",
+    "articleURL": "https://en.wikipedia.org/wiki/Kempner_series",
+    "anchorText": "unlike the harmonic series, it converges",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "86644969-51b2-4cbb-a5e6-a44f3c0d9c7e",
+    "date": "2026-11-17",
+    "format": "four",
+    "question": "A patient with Capgras delusion is gripped by which specific belief?",
+    "choices": [
+      "That they themselves have died and no longer exist",
+      "That a total stranger is a loved one wearing a disguise",
+      "That they are slowly turning into an animal",
+      "That their close family have been secretly swapped for identical impostors"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Capgras delusion",
+    "articleURL": "https://en.wikipedia.org/wiki/Capgras_delusion",
+    "anchorText": "has been replaced by an identical impostor",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "7b191f9e-ac6e-476e-926e-4a3e1340ca4e",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "There is a rare condition, caused by damage to the brain's visual cortex, in which people are completely blind yet sincerely insist they can still see, even inventing descriptions of things that are not in front of them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Anton syndrome",
+    "articleURL": "https://en.wikipedia.org/wiki/Anton_syndrome",
+    "anchorText": "that they are capable of seeing",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3366099e-ae75-47ab-9fde-a1165ea4df2f",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "Brain damage can leave a person unable to perceive motion at all - a poured cup of tea looks frozen in mid-air - even though they still see stationary objects perfectly clearly.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Akinetopsia",
+    "articleURL": "https://en.wikipedia.org/wiki/Akinetopsia",
+    "anchorText": "cannot perceive motion in their visual field, despite being able to see stationary objects without issue",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f627a1c4-3cc6-4ae0-ba71-bef1ca7773b5",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "There is a recognised psychiatric condition, documented even in mass-panic outbreaks, in which people become overwhelmingly convinced that their genitals are retracting into the body and about to disappear.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Koro (disease)",
+    "articleURL": "https://en.wikipedia.org/wiki/Koro_(disease)",
+    "anchorText": "an overpowering belief that their sex organs are retracting and will disappear",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3de51b32-2f0d-4764-88b1-014d3285a859",
+    "date": "2026-11-17",
+    "format": "tf",
+    "question": "In a 'false pregnancy' (pseudocyesis) the woman only imagines she is pregnant; her body produces no real physical signs of pregnancy at all.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "False pregnancy",
+    "articleURL": "https://en.wikipedia.org/wiki/False_pregnancy",
+    "anchorText": "tender breasts with secretions, abdominal growth, delayed menstrual periods, and subjective feelings of a moving fetus",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
