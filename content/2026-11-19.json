@@ -1,0 +1,116 @@
+[
+  {
+    "id": "3dab0949-c0bf-4bfe-b177-da20734c4c9e",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "The 17th-century Dutch 'tulip mania' was a genuine economic catastrophe that bankrupted the Dutch economy and financially ruined huge numbers of ordinary investors.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Tulip mania",
+    "articleURL": "https://en.wikipedia.org/wiki/Tulip_mania",
+    "anchorText": "the mania was not as destructive as he describes",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Jan_Brueghel_the_Younger%2C_Satire_on_Tulip_Mania%2C_c._1640.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c034f1e5-5287-410a-86e9-7603284f571f",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "A famous maths problem asks for the fewest colours needed to paint every point of an endless flat plane so that no two points exactly one unit apart share a colour. Despite its simple wording, nobody yet knows the exact answer.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Hadwiger\u2013Nelson problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem",
+    "anchorText": "The answer is unknown, but has been narrowed down",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5430bc16-6885-4e66-b6eb-4eba28ff0aa2",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "Mathematicians have proven that the infinite string of digits of pi contains every possible finite sequence of digits somewhere within it - so your phone number, and every book ever written, appears if you look far enough.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Normal number",
+    "articleURL": "https://en.wikipedia.org/wiki/Normal_number",
+    "anchorText": "It has not even been proven that all digits actually occur infinitely many times",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c2c5781d-b7b9-4a17-8924-74c70acc3eb8",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "The statement that any single loop drawn on a flat page divides it into an 'inside' and an 'outside' is so obvious it hardly seems worth stating - yet it is a celebrated theorem that is genuinely hard to prove rigorously.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Jordan curve theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Jordan_curve_theorem",
+    "anchorText": "the theorem seems intuitively obvious, it takes some ingenuity to prove",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jordan_curve_theorem.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "6c89c7fc-3c2e-412d-a71a-558f4d44c45c",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "There is a tongue-in-cheek but mathematically argued 'law of miracles' holding that an ordinary person should expect a one-in-a-million coincidence - a 'miracle' - to happen to them roughly once a month.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Littlewood's law",
+    "articleURL": "https://en.wikipedia.org/wiki/Littlewood%27s_law",
+    "anchorText": "miracles happen at a rate of roughly one per month",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f27f1285-7578-4f46-92aa-eaf774ff9dad",
+    "date": "2026-11-19",
+    "format": "tf",
+    "question": "For every number anyone has ever actually checked, a standard formula always overestimates how many prime numbers lie below it - yet mathematicians have proven that, past an unimaginably huge threshold, that overestimate must switch to an underestimate.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Skewes's number",
+    "articleURL": "https://en.wikipedia.org/wiki/Skewes%27s_number",
+    "anchorText": "nobody has ever found a value of x for which",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "cb3d0b50-f691-4255-b3aa-173ab8b51cb8",
+    "date": "2026-11-19",
+    "format": "four",
+    "question": "About four billion years ago, when the young Earth already had liquid oceans, how bright was the Sun compared with today?",
+    "choices": [
+      "Roughly the same brightness as it is today",
+      "Considerably brighter and hotter than it is today",
+      "Around twice as bright as it is today",
+      "Only about 70% as bright as it is today"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Faint young Sun paradox",
+    "articleURL": "https://en.wikipedia.org/wiki/Faint_young_Sun_paradox",
+    "anchorText": "early Earth would be expected to be completely frozen",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
