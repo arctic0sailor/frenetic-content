@@ -1,0 +1,72 @@
+[
+  {
+    "id": "c39b6955-3396-4e57-8462-8da68d909673",
+    "date": "2026-11-20",
+    "format": "four",
+    "question": "On a very dark night far from city lights, you can sometimes see a faint cone of light stretching up from the horizon, called the zodiacal light. What actually causes this glow?",
+    "choices": [
+      "Sunlight scattering off dust floating between the planets",
+      "The distant combined glow of the Milky Way's stars",
+      "Light pollution from cities beyond the horizon",
+      "Airglow from chemical reactions high in Earth's atmosphere"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Zodiacal light",
+    "articleURL": "https://en.wikipedia.org/wiki/Zodiacal_light",
+    "anchorText": "a faint glow of diffuse sunlight scattered by interplanetary dust",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "039a9056-7e32-4001-bd21-f677c663b1af",
+    "date": "2026-11-20",
+    "format": "four",
+    "question": "Prussian blue, the deep-blue pigment painters and printers have used since the 1700s, also appears on the World Health Organization's List of Essential Medicines. What is it used for medically?",
+    "choices": [
+      "As a dye to stain tissues during surgery",
+      "To treat severe iron-deficiency anaemia",
+      "As an antidote for certain heavy-metal and radioactive poisonings",
+      "As a preservative in the production of vaccines"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Prussian blue",
+    "articleURL": "https://en.wikipedia.org/wiki/Prussian_blue",
+    "anchorText": "used as an antidote for certain kinds of heavy metal poisoning",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pigment_Berliner_Blau.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "39dd53e1-3431-4efb-bd3f-9a18a86be3d3",
+    "date": "2026-11-20",
+    "format": "tf",
+    "question": "Because of an atmospheric mirage, polar explorers have genuinely seen the Sun appear above the horizon up to about two weeks before it was actually due to rise.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Novaya Zemlya effect",
+    "articleURL": "https://en.wikipedia.org/wiki/Novaya_Zemlya_effect",
+    "anchorText": "gives the impression that the sun is rising earlier than it actually should",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Green_flash_05-16-08-1.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "58f42d75-aaaa-415f-8676-8adf1c850629",
+    "date": "2026-11-20",
+    "format": "four",
+    "question": "What was the key piece of evidence that first led scientists to propose that an asteroid impact wiped out the dinosaurs?",
+    "choices": [
+      "A worldwide thin clay layer unusually rich in the rare metal iridium",
+      "Dinosaur bones found scorched and fused together by intense heat",
+      "A gigantic buried crater discovered off the coast of Mexico",
+      "A sudden, total gap in the global fossil record"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Iridium",
+    "articleURL": "https://en.wikipedia.org/wiki/Iridium",
+    "anchorText": "identified by a thin stratum of iridium-rich clay",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/54/Iridium_%2877_Ir%29_%28cropped%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
