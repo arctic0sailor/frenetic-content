@@ -1,0 +1,138 @@
+[
+  {
+    "id": "88d2115b-fa39-44c9-8fc7-45275a7ee8e8",
+    "date": "2026-11-21",
+    "format": "four",
+    "question": "In a star cluster, all the stars formed at roughly the same time, so they should have aged together. Yet 'blue stragglers' look much younger and hotter than the rest. Why?",
+    "choices": [
+      "They are younger stars that drifted into the cluster later",
+      "They are actually distant background stars seen through the cluster",
+      "Two stars merged, or one gained mass from a companion, making them look younger",
+      "They burn a rare fuel that keeps them hot far longer than their neighbours"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Blue straggler",
+    "articleURL": "https://en.wikipedia.org/wiki/Blue_straggler",
+    "anchorText": "they are current or former binary stars that are in the process of merging",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "2cea57b5-62bf-42e0-8a57-06569d068033",
+    "date": "2026-11-21",
+    "format": "four",
+    "question": "Saturn's tiny moon Pan looks bizarrely like a walnut or a ravioli, thanks to a thin, flat ridge wrapped all the way around its equator. What built that ridge?",
+    "choices": [
+      "Material from Saturn's rings that the moon swept up and piled onto its middle",
+      "A grazing collision that flattened the moon into a disc",
+      "Its rapid spin flinging loose rock toward the equator",
+      "Tidal stretching by Saturn's gravity squeezing it outward at the middle"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Pan (moon)",
+    "articleURL": "https://en.wikipedia.org/wiki/Pan_(moon)",
+    "anchorText": "The ridge is due to ring material that Pan has swept up from the Encke gap",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Pan_color_PIA21449.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fde8f75b-3bca-4693-9d38-4b212457c5c9",
+    "date": "2026-11-21",
+    "format": "four",
+    "question": "The Nika riots of 532 AD burned down much of Constantinople and left tens of thousands dead. The mobs formed from two rival factions, the 'Blues' and the 'Greens' - passionate fans devoted to what?",
+    "choices": [
+      "Rival Christian sects feuding over doctrine",
+      "Rival gladiatorial fighting schools",
+      "Rival chariot-racing teams",
+      "Rival political parties in the Senate"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Nika riots",
+    "articleURL": "https://en.wikipedia.org/wiki/Nika_riots",
+    "anchorText": "competitors in certain sporting events belonged, especially in chariot racing",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkey-03228_-_Hippodrome_of_Constantinople_%2811312626353%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "a3b12daf-b3da-415b-b0d4-51c5f7c106d8",
+    "date": "2026-11-21",
+    "format": "four",
+    "question": "For years London had dumped its sewage into the Thames with little action. What finally forced Parliament to fund a vast modern sewer system in 1858?",
+    "choices": [
+      "A catastrophic cholera epidemic that killed thousands that summer",
+      "An unbearable stench rising off the sewage-choked river beside Parliament",
+      "The Thames bursting its banks and flooding Westminster",
+      "A royal command issued directly by Queen Victoria"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Great Stink",
+    "articleURL": "https://en.wikipedia.org/wiki/Great_Stink",
+    "anchorText": "The smell, and fears of its possible effects, prompted action",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/a2/The_silent_highwayman.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "42c38f7e-b8e6-47ee-9569-863b25f7021a",
+    "date": "2026-11-21",
+    "format": "tf",
+    "question": "After World War I, a small self-governing German 'free state' survived for over a year largely because two Allied occupation zones, drawn as circles on the map, failed to meet and left a gap between them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Free State of Bottleneck",
+    "articleURL": "https://en.wikipedia.org/wiki/Free_State_of_Bottleneck",
+    "anchorText": "The French and American zones did not meet entirely, leaving a narrow gap",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Free_State_of_Bottleneck.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c052dd7f-be64-479d-805b-ce4d325071e2",
+    "date": "2026-11-21",
+    "format": "tf",
+    "question": "Deep-sea 'zombie worms' have no mouth, no stomach, and no gut at all, yet they make their living by boring into and consuming the bones of dead whales.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Osedax",
+    "articleURL": "https://en.wikipedia.org/wiki/Osedax",
+    "anchorText": "Osedax lacks a mouth, gut, or anus",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/12/Osedax_roseus.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "17242d40-da4f-4643-962b-45e46d91193c",
+    "date": "2026-11-21",
+    "format": "tf",
+    "question": "The elaborate, lavishly decorated structure that a male bowerbird builds is the nest in which the female lays her eggs and raises the chicks.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Bowerbird",
+    "articleURL": "https://en.wikipedia.org/wiki/Bowerbird",
+    "anchorText": "with the female building the nest and raising the young alone",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Satin_Bowerbird_JCB.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "399b865d-7039-484f-866f-de5e76bfa56a",
+    "date": "2026-11-21",
+    "format": "tf",
+    "question": "There is a species of fish in which a single individual can fertilize its own eggs inside its body, producing offspring entirely on its own, with no mate at all.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Mangrove rivulus",
+    "articleURL": "https://en.wikipedia.org/wiki/Mangrove_rivulus",
+    "anchorText": "routinely reproduces by self-fertilization",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Kriptolebias_marmoratus.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
