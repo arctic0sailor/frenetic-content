@@ -1,0 +1,102 @@
+[
+  {
+    "id": "030f71f3-1e2c-4a28-8d1b-eccaf2014905",
+    "date": "2026-11-22",
+    "format": "tf",
+    "question": "Astronomers have proposed a strange kind of star that would have an entire neutron star buried deep inside its core.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Thorne\u2013\u017bytkow object",
+    "articleURL": "https://en.wikipedia.org/wiki/Thorne%E2%80%93%C5%BBytkow_object",
+    "anchorText": "a red giant or red supergiant contains a neutron star at its core",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "2157453b-75ce-4f4a-9e84-a6a104834262",
+    "date": "2026-11-22",
+    "format": "four",
+    "question": "Kamo\u02bboalewa is a small 'quasi-moon' that travels alongside Earth as it orbits the Sun. Where is it now thought to have come from?",
+    "choices": [
+      "A captured comet from the outer Solar System",
+      "A fragment blasted off the Moon",
+      "A leftover chunk from the formation of Mars",
+      "A piece of a shattered asteroid from the main belt"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "469219 Kamo\u02bboalewa",
+    "articleURL": "https://en.wikipedia.org/wiki/469219_Kamo%CA%BBoalewa",
+    "anchorText": "indicate that it is likely lunar ejecta",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "23c018bc-4c7f-43d5-ab0d-6df9ea708474",
+    "date": "2026-11-22",
+    "format": "four",
+    "question": "The distant dwarf planet Quaoar surprised astronomers because its ring does what?",
+    "choices": [
+      "Circles the dwarf planet from pole to pole, not around its equator",
+      "Is so close in that it should have been torn apart long ago",
+      "Orbits far outside the distance where rings were thought able to survive",
+      "Is denser and more massive than the dwarf planet itself"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Quaoar",
+    "articleURL": "https://en.wikipedia.org/wiki/Quaoar",
+    "anchorText": "two thin rings orbiting outside its Roche limit",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Quaoar_as_taken_by_NIRCam.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3fbbfa3c-6165-45c9-90ea-5e20b2fed42e",
+    "date": "2026-11-22",
+    "format": "tf",
+    "question": "When food runs short, the marine iguana can actually shrink \u2014 becoming measurably shorter in body length \u2014 and then grow back again once food returns.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Marine iguana",
+    "articleURL": "https://en.wikipedia.org/wiki/Marine_iguana",
+    "anchorText": "Some individuals have been shown to shrink in body size",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Amblyrhynchus_cristatus_%283838137696%29.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f2fa04e8-dca9-4cd0-b3dd-3a1626369163",
+    "date": "2026-11-22",
+    "format": "tf",
+    "question": "A German city has run a railway since 1901 in which the carriages hang underneath the rail instead of riding on top of it.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Wuppertal Schwebebahn",
+    "articleURL": "https://en.wikipedia.org/wiki/Wuppertal_Schwebebahn",
+    "anchorText": "the oldest electric elevated railway with hanging cars in the world",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8993d107-c87a-4e63-89b8-82846dc33dee",
+    "date": "2026-11-22",
+    "format": "tf",
+    "question": "In the 1950s some buses ran with no engine and no overhead trolley wire \u2014 propelled entirely by a heavy flywheel that was spun up with electricity at each stop.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Gyrobus",
+    "articleURL": "https://en.wikipedia.org/wiki/Gyrobus",
+    "anchorText": "an electric bus that uses flywheel energy storage",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gyrobus_G3-1.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
