@@ -1,0 +1,186 @@
+[
+  {
+    "id": "ca14a3cd-9cbe-4214-a3f8-fce1337836ad",
+    "date": "2026-11-23",
+    "format": "four",
+    "question": "Dodder is a parasitic vine with almost no chlorophyll of its own. How does a dodder seedling locate a host plant to feed on?",
+    "choices": [
+      "It grows toward the warmth given off by nearby plants",
+      "It is carried to new hosts by ants that tend it",
+      "It detects and grows toward airborne chemicals released by host plants",
+      "It simply grows toward the brightest green it can sense"
+    ],
+    "correctIndex": 2,
+    "articleTitle": "Cuscuta",
+    "articleURL": "https://en.wikipedia.org/wiki/Cuscuta",
+    "anchorText": "Seedlings locate host plants by sensing volatile organic compounds",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/33/Cuscuta_europaea_bgiu.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3a618328-9835-44d3-9fc4-3ed6a996d0ae",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "There is a ground beetle whose larvae lure in frogs and toads \u2014 the very animals that normally eat beetles \u2014 and then turn the tables and devour them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Epomis",
+    "articleURL": "https://en.wikipedia.org/wiki/Epomis",
+    "anchorText": "Epomis larvae feed exclusively on amphibians",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Epomis_dejeani.JPG",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c0554a51-07fb-4307-adfe-5624699c6f81",
+    "date": "2026-11-23",
+    "format": "four",
+    "question": "A vortex tube is a simple metal tube with no moving parts. What does it do when compressed air is fed into it?",
+    "choices": [
+      "It splits the air into a hot stream from one end and a cold stream from the other",
+      "It silently generates a small electric current",
+      "It compresses the air until it condenses into a liquid",
+      "It strips dust and moisture out of the air"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Vortex tube",
+    "articleURL": "https://en.wikipedia.org/wiki/Vortex_tube",
+    "anchorText": "separates a compressed gas into hot and cold streams",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d2659272-05a2-4d39-b840-1dbf1e5475b5",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "An engine can be made to run continuously on nothing but the temperature difference between the surrounding air and the cold night sky.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Stirling engine",
+    "articleURL": "https://en.wikipedia.org/wiki/Stirling_engine",
+    "anchorText": "a Stirling engine driven by a temperature difference produced through radiative cooling to the sky",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/fa/HPS_Eigenbau2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "0e453226-2a6c-4ba1-8d32-342dc2b1460e",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "A traditional windcatcher tower cannot cool the building below it unless there is a breeze blowing outside.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Windcatcher",
+    "articleURL": "https://en.wikipedia.org/wiki/Windcatcher",
+    "anchorText": "windcatchers can also function without wind",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/6/68/Edificios_en_Yazd%2C_Ir%C3%A1n%2C_2016-09-21%2C_DD_17.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bd08d359-93f2-4e2c-b048-08058b9aac35",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "Some older European buildings have passenger lifts that never stop moving \u2014 a chain of open compartments circulating continuously, so riders step on and off while it is in motion.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Paternoster lift",
+    "articleURL": "https://en.wikipedia.org/wiki/Paternoster_lift",
+    "anchorText": "move slowly in a loop up and down inside a building without stopping",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Paternoster.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d4d7abdb-af9d-4853-8e28-64f4f1e1962c",
+    "date": "2026-11-23",
+    "format": "four",
+    "question": "At Barton in England, a canal crosses over a larger ship canal. To let tall ships pass beneath, how is the crossing moved out of the way?",
+    "choices": [
+      "The entire water-filled iron trough swings aside on a pivot, canal water and all",
+      "The canal is drained and the empty channel is lifted on hydraulic jacks",
+      "The trough splits in the middle and folds back toward each bank",
+      "The whole span is rolled backward on rails onto dry land"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Barton Swing Aqueduct",
+    "articleURL": "https://en.wikipedia.org/wiki/Barton_Swing_Aqueduct",
+    "anchorText": "the first and only swing aqueduct in the world",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Barton_Swing_Aqueduct.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "b14a2ffe-d9cb-4276-9853-be5b0f82179a",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "In South America a natural river channel links the Orinoco and the Amazon river systems, so it is possible to travel by water between the two great river basins.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Casiquiare canal",
+    "articleURL": "https://en.wikipedia.org/wiki/Casiquiare_canal",
+    "anchorText": "forms a unique natural canal between the Orinoco and Amazon river systems",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Canal_do_Cassiquiare.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "f6406881-e441-4c11-bde4-3b025c79c39d",
+    "date": "2026-11-23",
+    "format": "four",
+    "question": "Neutral Moresnet was a tiny patch of Europe that stayed a 'neutral,' jointly administered territory for roughly a century. Why was it set up that way?",
+    "choices": [
+      "Two countries could not agree who owned a valuable zinc mine there",
+      "It was a demilitarised buffer left behind after a famous battle",
+      "It was set aside as a sanctuary for exiled royalty",
+      "It marked a holy site both nations had pledged to protect"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Neutral Moresnet",
+    "articleURL": "https://en.wikipedia.org/wiki/Neutral_Moresnet",
+    "anchorText": "a valuable zinc spar mine named Altenberg",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "ce80cc42-5555-4f89-9f88-361b83545273",
+    "date": "2026-11-23",
+    "format": "two",
+    "question": "Which is generally considered the most remote island on Earth \u2014 the one farthest from any other land?",
+    "choices": [
+      "Bouvet Island, in the South Atlantic",
+      "Easter Island, in the South Pacific"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Bouvet Island",
+    "articleURL": "https://en.wikipedia.org/wiki/Bouvet_Island",
+    "anchorText": "it is the world's most remote island",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c95449ef-49e4-4e35-b648-dab7f5b0584d",
+    "date": "2026-11-23",
+    "format": "tf",
+    "question": "The borders between Germany, Switzerland and Austria within Lake Constance are precisely fixed by international treaty.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Lake Constance",
+    "articleURL": "https://en.wikipedia.org/wiki/Lake_Constance",
+    "anchorText": "there is no legally binding agreement as to where the borders lie",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Lake_Constance_Edited.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
