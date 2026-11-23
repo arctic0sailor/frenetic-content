@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0c696a33-c90b-44eb-aba8-970e56abc355",
+    "date": "2026-11-24",
+    "format": "four",
+    "question": "Colombia's Ca\u00f1o Cristales, the 'River of Five Colours', turns a vivid red for part of the year. What causes the red?",
+    "choices": [
+      "A plant growing on the riverbed",
+      "Iron-rich minerals staining the water",
+      "A bloom of red algae",
+      "Runoff from upstream red clay"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Ca\u00f1o Cristales",
+    "articleURL": "https://en.wikipedia.org/wiki/Ca%C3%B1o_Cristales",
+    "anchorText": "and especially red, the last caused by",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/57/Ca%C3%B1o_Cristales_01.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "99905ba4-ede6-48a6-8f97-1c4d88f62de7",
+    "date": "2026-11-24",
+    "format": "four",
+    "question": "A river in the Peruvian Amazon runs hot enough to boil, scalding animals that fall in. What heats it?",
+    "choices": [
+      "A nearby active volcano",
+      "Geothermal water rising along fault lines",
+      "The intense equatorial sun, as its local name claims",
+      "Hot runoff from an oil refinery"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Shanay-timpishka",
+    "articleURL": "https://en.wikipedia.org/wiki/Shanay-timpishka",
+    "anchorText": "hot geothermal waters rise from deep in the earth",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
