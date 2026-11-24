@@ -1,0 +1,68 @@
+[
+  {
+    "id": "53e3229f-0744-4c5f-8b59-b9a7d669244f",
+    "date": "2026-11-25",
+    "format": "four",
+    "question": "The lush cloud forest crowning Green Mountain on Ascension Island came to exist how?",
+    "choices": [
+      "It is a relic of ancient rainforest that predates the island's volcanoes",
+      "It sprang up after a 19th-century shipwreck scattered seeds",
+      "It grew from plants that drifted across the ocean on currents",
+      "It was deliberately planted by humans on a once-barren island"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Ascension Island",
+    "articleURL": "https://en.wikipedia.org/wiki/Ascension_Island",
+    "anchorText": "one of the few large-scale planned forests",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "95e88e5a-f309-4dce-a3ba-8c047c3be819",
+    "date": "2026-11-25",
+    "format": "tf",
+    "question": "Every human body is patterned with a set of invisible stripes and whorls across the skin \u2014 normally unseen \u2014 that trace how our cells spread out as an embryo.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Blaschko's lines",
+    "articleURL": "https://en.wikipedia.org/wiki/Blaschko%27s_lines",
+    "anchorText": "lines of normal cell development in the skin",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/7/72/Maculae_Bloch-Sulzberger_syndrome.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "078eddb0-3693-419d-8dbc-e08ef4c536cc",
+    "date": "2026-11-25",
+    "format": "tf",
+    "question": "A physician won the Nobel Prize in the 1920s for a treatment that deliberately infected patients with malaria in order to cure them of another, then-incurable disease.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Malaria therapy",
+    "articleURL": "https://en.wikipedia.org/wiki/Malaria_therapy",
+    "anchorText": "treating diseases using artificial injection of malaria parasites",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5f97e746-26ae-4f49-81f6-195140d88c2c",
+    "date": "2026-11-25",
+    "format": "tf",
+    "question": "The idea that medieval and early-modern kings could heal the sick simply by touching them is pure legend \u2014 no European monarchy ever actually held such ceremonies.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Royal touch",
+    "articleURL": "https://en.wikipedia.org/wiki/Royal_touch",
+    "anchorText": "French and English monarchs touched their subjects",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Queen_Mary_I_curing_scrofula_Levina_Teerlinc_16th_C.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
