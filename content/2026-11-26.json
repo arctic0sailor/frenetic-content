@@ -1,0 +1,82 @@
+[
+  {
+    "id": "b24b4a46-bdaa-4171-a177-57d3169d0e15",
+    "date": "2026-11-26",
+    "format": "two",
+    "question": "At an office Secret Santa, everyone's name goes in a hat and each person draws one at random. As the group grows larger and larger, the probability that NOBODY draws their own name \u2014",
+    "choices": [
+      "hovers around 37% no matter how big the group gets",
+      "steadily shrinks toward zero as the group grows"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Derangement",
+    "articleURL": "https://en.wikipedia.org/wiki/Derangement",
+    "anchorText": "The probability converges to this limit extremely quickly as n increases",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "c0579049-1be5-47d5-9041-cbfc7181b099",
+    "date": "2026-11-26",
+    "format": "tf",
+    "question": "It is possible to remove pieces from a line segment, bit by bit, until what remains has a total length of zero \u2014 and yet the leftover set still contains uncountably many points.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Cantor set",
+    "articleURL": "https://en.wikipedia.org/wiki/Cantor_set",
+    "anchorText": "the Cantor set is an example of a set which is uncountable and has zero measure",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Cantor.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "decd5e11-c74b-46c6-aa77-ec2391b9757f",
+    "date": "2026-11-26",
+    "format": "tf",
+    "question": "The famous Mandelbrot set \u2014 that iconic fractal \u2014 is actually made up of infinitely many completely separate, disconnected islands.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Mandelbrot set",
+    "articleURL": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+    "anchorText": "Douady and Hubbard showed that the Mandelbrot set is connected",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d0fad22f-aca0-4315-8775-5ddfe6aedcd4",
+    "date": "2026-11-26",
+    "format": "tf",
+    "question": "Buses arrive at a stop with an average gap of 10 minutes between them (the gaps vary in length). If you turn up at a completely random moment, your average wait will be LONGER than 5 minutes \u2014 more than half the average gap.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Renewal theory",
+    "articleURL": "https://en.wikipedia.org/wiki/Renewal_theory",
+    "anchorText": "the average rider at a bus stop observes more delays than the average operator of the buses",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "af7a69f9-70db-4354-a32b-e659e589841b",
+    "date": "2026-11-26",
+    "format": "tf",
+    "question": "In 17th-century Europe, a seriously proposed remedy for a sword or knife wound was to carefully treat the weapon that had caused it \u2014 rather than the wound itself.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Powder of sympathy",
+    "articleURL": "https://en.wikipedia.org/wiki/Powder_of_sympathy",
+    "anchorText": "a remedy was applied to the weapon that had caused a wound with the aim of healing the injury",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Frontispiece_illustration_of_%27Sympathia%27-%28Powder_of_Sympathy%29_Wellcome_L0013169.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
