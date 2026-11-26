@@ -1,0 +1,134 @@
+[
+  {
+    "id": "fea313ef-7252-4685-84a8-7d723226f910",
+    "date": "2026-11-27",
+    "format": "tf",
+    "question": "It is possible to carve a flat region into three separate 'lakes', arranged so that every single point on the shoreline borders all three lakes at once.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Lakes of Wada",
+    "articleURL": "https://en.wikipedia.org/wiki/Lakes_of_Wada",
+    "anchorText": "the counterintuitive property that they all have the same boundary",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lakes_of_Wada.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "bcc9d66c-aa58-43ee-9b59-d7d8693df2d5",
+    "date": "2026-11-27",
+    "format": "four",
+    "question": "If you write the whole numbers 1, 2, 3, ... outward in a square spiral and then mark every prime number, the primes \u2014",
+    "choices": [
+      "cluster tightly near the centre and thin out toward the edges",
+      "scatter about with no visible pattern at all",
+      "form concentric rings, roughly one prime per ring",
+      "line up along striking diagonal streaks"
+    ],
+    "correctIndex": 3,
+    "articleTitle": "Ulam spiral",
+    "articleURL": "https://en.wikipedia.org/wiki/Ulam_spiral",
+    "anchorText": "primes appear to concentrate along certain diagonal lines",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "25b059f0-c9f1-45fc-967e-6062a9408c5d",
+    "date": "2026-11-27",
+    "format": "tf",
+    "question": "Prime numbers thin out as you count higher. Even so, no matter how long a run you ask for \u2014 ten primes, a thousand, a million \u2014 there exists a set of exactly that many primes spaced at perfectly equal intervals.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Green\u2013Tao theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Green%E2%80%93Tao_theorem",
+    "anchorText": "the sequence of prime numbers contains arbitrarily long arithmetic progressions",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "5d7efaa7-a62b-48f0-9b3a-183f832adcb9",
+    "date": "2026-11-27",
+    "format": "four",
+    "question": "Wilson's disease is an inherited disorder in which one metal slowly builds up to poisonous levels in the liver and brain. Which metal?",
+    "choices": [
+      "iron",
+      "copper",
+      "lead",
+      "aluminium"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Wilson's disease",
+    "articleURL": "https://en.wikipedia.org/wiki/Wilson%27s_disease",
+    "anchorText": "the excess build-up of copper in the body",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wilson%27s_Disease_4.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "389c8540-6a57-4e4b-97b1-b1db0b0b7442",
+    "date": "2026-11-27",
+    "format": "tf",
+    "question": "Physicists have not only slowed a beam of light to a crawl \u2014 they have brought light to a complete standstill, holding it motionless and then releasing it to travel on again.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Slow light",
+    "articleURL": "https://en.wikipedia.org/wiki/Slow_light",
+    "anchorText": "succeeded in stopping light completely",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "3c9c7cfb-a1c8-4e8a-af33-a121f9603fb9",
+    "date": "2026-11-27",
+    "format": "tf",
+    "question": "The little spinning vanes of a Crookes radiometer \u2014 the black-and-white paddles sealed inside a glass bulb \u2014 are driven round by the physical pressure of the light striking them.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Crookes radiometer",
+    "articleURL": "https://en.wikipedia.org/wiki/Crookes_radiometer",
+    "anchorText": "Crookes incorrectly suggested that the force was due to the pressure of light",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Crookes_radiometer.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "81a9071f-b523-4389-8723-44512ec8802c",
+    "date": "2026-11-27",
+    "format": "two",
+    "question": "Ordinary lava erupts glowing red-orange at well over 1,000 \u00b0C. The lava of Tanzania's Ol Doinyo Lengai \u2014 the only volcano of its kind on Earth \u2014 is unusual because it is \u2014",
+    "choices": [
+      "even hotter, erupting so fiercely it glows brilliant white",
+      "much cooler than any other lava on Earth, barely glowing at all"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Ol Doinyo Lengai",
+    "articleURL": "https://en.wikipedia.org/wiki/Ol_Doinyo_Lengai",
+    "anchorText": "an unusually low temperature and highly fluid type of magma",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/5/53/Lengai_from_Natron.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "16491102-07cd-4df0-823d-19f8fcd3177c",
+    "date": "2026-11-27",
+    "format": "tf",
+    "question": "Humans possess a fully working vomeronasal organ \u2014 a dedicated sense organ, much like a snake's, for detecting pheromones.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Vomeronasal organ",
+    "articleURL": "https://en.wikipedia.org/wiki/Vomeronasal_organ",
+    "anchorText": "there is no reported evidence that human beings have active sensory neurons",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/Gray51.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
