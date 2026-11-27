@@ -1,0 +1,152 @@
+[
+  {
+    "id": "8138898a-f28a-4a20-9711-30df8eccbac4",
+    "date": "2026-11-28",
+    "format": "two",
+    "question": "Any two flat polygons with the same area can always be cut into finitely many pieces and rearranged to form one another. Is the same guaranteed in three dimensions \u2014 can any two solid polyhedra of equal volume always be cut up and reassembled into each other?",
+    "choices": [
+      "No \u2014 for solids, equal volume does not always permit it",
+      "Yes \u2014 just as with flat shapes, equal volume always allows it"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Hilbert's third problem",
+    "articleURL": "https://en.wikipedia.org/wiki/Hilbert%27s_third_problem",
+    "anchorText": "these two shapes cannot be scissors-congruent",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fb3ec075-957f-423d-aef2-3aa710b1f86e",
+    "date": "2026-11-28",
+    "format": "tf",
+    "question": "The numbers 8 (which is 2 cubed) and 9 (which is 3 squared) are consecutive, and both are perfect powers. Mathematicians have since found many more pairs of consecutive perfect powers scattered among the large numbers.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Catalan's conjecture",
+    "articleURL": "https://en.wikipedia.org/wiki/Catalan%27s_conjecture",
+    "anchorText": "this is the only case of two consecutive perfect powers",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "8d7ffb22-4daa-4df3-a488-5b0247e40ab2",
+    "date": "2026-11-28",
+    "format": "tf",
+    "question": "There is a celebrated family of mathematical integrals in which a striking pattern holds \u2014 each successive one equals exactly one-half of pi \u2014 for the first several cases, and then, without warning, the very next case breaks the pattern.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Borwein integral",
+    "articleURL": "https://en.wikipedia.org/wiki/Borwein_integral",
+    "anchorText": "exhibiting apparent patterns that eventually break down",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "40b0ada7-7297-43a7-ac09-694463c40d8d",
+    "date": "2026-11-28",
+    "format": "four",
+    "question": "Leonhard Euler, one of history's greatest mathematicians, proposed a sweeping conjecture generalizing Fermat's Last Theorem. Roughly two centuries later, what became of it?",
+    "choices": [
+      "It was finally proven true, by computer, late in the 20th century",
+      "It was disproven \u2014 a computer search in the 1960s turned up a counterexample",
+      "It was shown to be logically undecidable, neither provable nor disprovable",
+      "It remains one of mathematics' great unsolved open problems"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Euler's sum of powers conjecture",
+    "articleURL": "https://en.wikipedia.org/wiki/Euler%27s_sum_of_powers_conjecture",
+    "anchorText": "Euler's conjecture is a disproved conjecture related to Fermat's Last Theorem",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "de9c942d-3b70-47bb-ae60-94d3fbb3f965",
+    "date": "2026-11-28",
+    "format": "tf",
+    "question": "If you set a rigid object \u2014 a tennis racket, a book, a spinning wingnut \u2014 turning about a certain one of its three axes, it will spontaneously flip over and back, again and again, even while floating weightless in space with nothing touching it.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Tennis racket theorem",
+    "articleURL": "https://en.wikipedia.org/wiki/Tennis_racket_theorem",
+    "anchorText": "air resistance or gravity are not necessary",
+    "thumbnailURL": null,
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "fd997a16-7002-49f1-a207-8e198e494e9f",
+    "date": "2026-11-28",
+    "format": "tf",
+    "question": "During the Cold War, scientists on both sides \u2014 and even the Pentagon \u2014 came to believe in 'polywater,' a newly discovered, more stable form of water, before it was exposed as nothing but contaminated ordinary water.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 0,
+    "articleTitle": "Polywater",
+    "articleURL": "https://en.wikipedia.org/wiki/Polywater",
+    "anchorText": "it was found to be illusory, being just water",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Proposed_structure_of_polywater_in_1969.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "d436c811-1113-42fc-b15d-f3dd73444fd4",
+    "date": "2026-11-28",
+    "format": "four",
+    "question": "'Hair ice' is a rare winter formation of fine, silky white threads of ice that grow out of dead wood in damp forests. What gives it that delicate hair-like shape?",
+    "choices": [
+      "the grain of the wood acts as a mould for the emerging ice",
+      "a fungus living in the wood shapes and stabilizes the ice",
+      "static electricity lines the ice crystals up into threads",
+      "tree sap seeping out and freezing into fine filaments"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Hair ice",
+    "articleURL": "https://en.wikipedia.org/wiki/Hair_ice",
+    "anchorText": "disabling the fungus with fungicide or hot water prevented hair ice formation",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Seidenhaarige_Eiskristalle_im_Bergischen_Land%2C_Naafbachtal.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "4b4fe0e4-77ed-4ce4-8e6b-227750af800c",
+    "date": "2026-11-28",
+    "format": "four",
+    "question": "A person who handles even a tiny trace of the element tellurium develops one unmistakable, remarkably long-lasting symptom. What is it?",
+    "choices": [
+      "their fingernails slowly turn a permanent shade of blue",
+      "their breath and sweat reek of garlic, sometimes for months afterward",
+      "they temporarily lose their sense of smell almost entirely",
+      "their skin begins to glow faintly under ultraviolet light"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Tellurium",
+    "articleURL": "https://en.wikipedia.org/wiki/Tellurium",
+    "anchorText": "a garlic-like odor exhaled in the breath of victims of tellurium exposure",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Tellurium2.jpg",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  },
+  {
+    "id": "beeac1c2-7880-4c77-9f7e-f551ba49aa42",
+    "date": "2026-11-28",
+    "format": "tf",
+    "question": "The 1839 'Honey War,' a border quarrel between Iowa and Missouri, escalated into open battle in which dozens of militiamen were killed before the boundary was settled.",
+    "choices": [
+      "True",
+      "False"
+    ],
+    "correctIndex": 1,
+    "articleTitle": "Honey War",
+    "articleURL": "https://en.wikipedia.org/wiki/Honey_War",
+    "anchorText": "The Honey War was a bloodless territorial dispute",
+    "thumbnailURL": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Honeywarmap.png",
+    "attribution": "Text from Wikipedia, CC BY-SA 4.0"
+  }
+]
